@@ -246,11 +246,11 @@ var data = {
 			thumbnail: "https://cdn.imgchest.com/files/b9ca2124c189.png",
 			title: "Dorothea's Romantic Fantasy",
 			artist: "Sethkiel",
-			artist_url: "https://x.com/zaki_btw",
+			artist_url: "https://x.com/SethsLilSecret",
 			art_url: "https://x.com/SethsLilSecret/status/1921691226740261048",
 			desc: "The idea for this piece was basically what I thought was Dorothea's perfect sexual fantasy. I decided on a romantic atmosphere with dim lights, rose petals... And a muscular Ingrid penetrating her with a strap-on.",
 			date_str: "April 28th, 2025",
-			tags: ["other characters, fire emblem, nsfw"],
+			tags: ["other characters", "fire emblem", "nsfw"],
 			hidden: false
 		},
 		{
