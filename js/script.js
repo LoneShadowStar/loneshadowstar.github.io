@@ -209,9 +209,7 @@ function updateImageCountLabel() {
 // Map a string to another string
 function translateWord(word) {
 	var translations = {
-		hooters: "Hooters 🦉",
-		nsfw: "NSFW 🔞",
-		other: "Other 🃏"
+		nsfw: "NSFW 🔞"
 	};
 	if (word in translations) {
 		return translations[word];
