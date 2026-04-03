@@ -45,7 +45,7 @@ var data = {
 			art_url: "https://www.pixiv.net/en/artworks/109904854",
 			desc: "First comm featuring Shez, Shamir, and Catherine.",
 			date_str: "July 2023",
-			tags: ["m!shez", "catherine", "shamir", "nsfw"],
+			tags: ["male shez", "catherine", "shamir", "nsfw"],
 			hidden: false
 		},
 		{
@@ -69,7 +69,7 @@ var data = {
 			art_url: null,
 			desc: null,
 			date_str: "November 2023",
-			tags: ["f!shez", "shamir", "fire emblem", "nsfw"],
+			tags: ["female shez", "shamir", "fire emblem", "nsfw"],
 			hidden: false
 		},
 		{
@@ -129,7 +129,7 @@ var data = {
 			art_url: "https://x.com/SethsLilSecret/status/1836363150586695740",
 			desc: "A shockingly underrated pairing I instantly fell in love with when I saw their supports.",
 			date_str: "September 2024",
-			tags: ["f!shez", "lysithea", "fire emblem", "nsfw"],
+			tags: ["female shez", "lysithea", "fire emblem", "nsfw"],
 			hidden: false
 		},
 		{
@@ -189,7 +189,7 @@ var data = {
 			art_url: "https://x.com/SethsLilSecret/status/1881098641139810523",
 			desc: null,
 			date_str: "January 17th, 2025",
-			tags: ["f!shez", "lysithea", "fire emblem", "nsfw"],
+			tags: ["female shez", "lysithea", "fire emblem", "nsfw"],
 			hidden: false
 		},
 		{
@@ -417,7 +417,7 @@ var data = {
 			art_url: "https://x.com/SethsLilSecret/status/1982988872180215833",
 			desc: "A sort of rarepair from Three Hopes that I found myself really liking, even though I haven't commissioned them often. I really love the passion between them in this piece.",
 			date_str: "September 14th, 2025",
-			tags: ["m!shez", "catherine", "fire emblem", "nsfw"],
+			tags: ["male shez", "catherine", "fire emblem", "nsfw"],
 			hidden: false
 		},
 		{
@@ -741,7 +741,7 @@ var data = {
 			art_url: null,
 			desc: "Muscular women...",
 			date_str: "March 27th 2026",
-			tags: ["other characters, fire emblem, nsfw"],
+			tags: ["other characters", "fire emblem", "nsfw"],
 			hidden: false
 		},
 		{
