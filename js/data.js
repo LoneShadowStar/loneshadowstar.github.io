@@ -182,7 +182,7 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://cdn.imgchest.com/files/5dd06b6831c6.PNG, https://cdn.imgchest.com/files/18e2180a1a23.png, https://cdn.imgchest.com/files/56afc3a0ed93.png, https://cdn.imgchest.com/files/d2e5946fd4d4.png"],
+			src: ["https://cdn.imgchest.com/files/5dd06b6831c6.PNG", "https://cdn.imgchest.com/files/18e2180a1a23.png", "https://cdn.imgchest.com/files/56afc3a0ed93.png", "https://cdn.imgchest.com/files/d2e5946fd4d4.png"],
 			thumbnail: "https://cdn.imgchest.com/files/5b2db46a6951.png",
 			title: "Toushin Toshi Girls' Gift Angels",
 			artist: "Pomelomelon",
