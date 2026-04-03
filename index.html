@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1"/>
+	<meta name="robots" content="noindex"/>
+	<title>LoneShadowStar's Commission Hole</title>
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-TYXYXZZHXR"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'G-TYXYXZZHXR');
+	</script>
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="css/styles.css">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+</head>
+<body>
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-2" id="sidebar-container">
+				<div class="row">
+					<div class="col-lg-1"></div>
+					<div class="col-lg-10" id="sidebar">
+						<div class="row">
+							<h1 id="title"><strong>LoneShadowStar's Commission Hole</strong></h1>
+						</div>
+						<div class="row title-underscore-container">
+							<div class="col-lg-1"></div>
+							<div class="col-lg-9 title-underscore"></div>
+						</div>
+						<div class="sidebar-item-container">
+							<div class="row sidebar-item">
+								<div class="col-lg-1 sidebar-item-spacer"></div>
+								<div class="col-lg-9 sidebar-item-inner">
+									<a data-bs-toggle='modal' data-bs-target='#aboutMeModal' index="-1"><strong class="sidebar-item-button"><i class="bi bi-person-circle"></i> <span class="sidebar-item-buttom-label">About Me</span></strong></a>
+								</div>
+							</div>
+							<div class="row sidebar-item">
+								<div class="col-lg-1 sidebar-item-spacer"></div>
+								<div class="col-lg-9 sidebar-item-inner">
+									<a href="https://bsky.app/profile/loneshadowstar.bsky.social" class="sidebar-item-button-link" target="_blank"><strong class="sidebar-item-button"><i class="bi bi-bluesky"></i><span class="sidebar-item-buttom-label">BlueSky</span></strong></a>
+								</div>
+							</div>
+							<div class="row sidebar-item">
+								<div class="col-lg-1 sidebar-item-spacer"></div>
+								<div class="col-lg-9 sidebar-item-inner">
+									<a href="https://x.com/AKikolski" class="sidebar-item-button-link" target="_blank"><strong class="sidebar-item-button"></i><i class="bi bi-twitter"></i><span class="sidebar-item-buttom-label">Twitter</span></strong></a>
+								</div>
+							</div>
+							<div class="row sidebar-item">
+								<div class="col-lg-1 sidebar-item-spacer"></div>
+								<div class="col-lg-9 sidebar-item-inner">
+									<a href="https://www.reddit.com/user/LoneShadowStar/" class="sidebar-item-button-link" target="_blank"><strong class="sidebar-item-button"><i class="bi bi-reddit"></i><span class="sidebar-item-buttom-label">Reddit</span></strong></a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-1"></div>
+				</div>
+			</div>
+			<div class="col-lg-10" id="gallery-container">
+				<div class="row" id="gallery-header">
+					<div class="col-lg-8">
+						<h2><strong>Gallery</strong></h2>
+						<p>Showing <span id="count"></span> of my artwork commissions</p>
+					</div>
+					<div class="col-lg-4">
+						<input type="search" class="form-control" id="search-bar" placeholder="Search text...">
+						<div class="gallery-buttons-container">
+							<div class="dropdown tag-dropdown-button">
+								<a class="btn dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
+								<strong>Filter:</strong>
+								</a>
+								<ul class="dropdown-menu checkbox-menu allow-focus" aria-labelledby="dropdownMenuLink" id="tags-dropdown"></ul>
+							</div>
+							<div class="btn shuffle-button" id="shuffle">
+								<i class="bi bi-shuffle"></i>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div id="gallery"></div>
+				</div>
+			</div>
+		</div>
+		<!-- Gallery Image Modal -->
+		<div class="modal fade" id="imageModal" tabindex="-1" aria-labelledby="imageModalLabel" aria-hidden="true">
+			<div class="modal-dialog modal-xl">
+				<div class="modal-content">
+					<div class="modal-header">
+						<h5 class="modal-title" id="imageModalLabel"></h5>
+						<button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+					</div>
+					<div class="modal-body">
+						<div class="row">
+							<div class="col-lg-9">
+								<div id="modal-carousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="false">
+									<div class="carousel-indicators"></div>
+									<div class="carousel-inner" id="imageModalImage"></div>
+									<button class="carousel-control-prev" type="button" data-bs-target="#modal-carousel" data-bs-slide="prev">
+										<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+										<span class="visually-hidden">Previous</span>
+									</button>
+									<button class="carousel-control-next" type="button" data-bs-target="#modal-carousel" data-bs-slide="next">
+										<span class="carousel-control-next-icon" aria-hidden="true"></span>
+										<span class="visually-hidden">Next</span>
+									</button>
+								</div>
+							</div>
+							<div class="col-lg-3"><div id="imageModalDesc"></div></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- About Me Modal -->
+		<div class="modal fade" id="aboutMeModal" tabindex="-1" aria-labelledby="aboutMeModalLabel" aria-hidden="true">
+			<div class="modal-dialog modal-xl">
+				<div class="modal-content">
+					<div class="modal-header">
+						<h5 class="modal-title" id="aboutMeModalLabel">About Me</h5>
+						<button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+					</div>
+					<div class="modal-body">
+						<div class="row">
+							<div class="col-lg-12">
+								<p></p>
+								<p>Greetings! I'm LoneShadowStar, and welcome to my humble gallery!</p>
+								<p>I first started commissioning art in around March 2023 or so, though I also have a Patreon request from 2022, so I guess that one could TECHNICALLY be considered my first commission. Since that fateful day, I've commissioned a lot of things over the past few years, but my favorite and most consistent commissions have always involved Sothe and Astrid from Fire Emblem: Radiant Dawn.</p>
+								<p>If you want to follow me and see whatever my most recent comm is before it's up on this site, you can always follow me on BlueSky or Reddit. Twitter is there too, but that account is mostly dead and only exists to message artists not on BlueSky.</p>
+								<div class="accordion" id="accordionAboutMe">
+									<div class="accordion-item">
+										<h2 class="accordion-header" id="headingOne">
+										<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+										Why I ship Sothe and Astrid (Among others)
+										</button>
+										</h2>
+										<div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+											<div class="accordion-body">
+												<p>As I said before, my most consistent commissions involve Sothe and Astrid from Fire Emblem: Radiant Dawn.</p>
+												<p>Sothe and Astrid are my personal favorite Tellius characters, but I didn't actually ship them until around my first commission. Beforehand, I didn't really think much of Astrid other than that she was Makalov's simp (I had only played Radiant Dawn at the time and only knew THAT version of her character.) Meanwhile, Sothe was always a personal favorite since he's actually very similar to how I am in real life, but at that time I had shipped him with Micaiah, before I knew all the... questionable implications about their relationship. Even now, I don't think Sothe x Micaiah is an INHERENTLY bad ship, I just don't like all the implications that it comes with.</p>
+												<p>My first exposure to the idea happened when in around 2022 or so I came across <a href="https://danbooru.donmai.us/posts/365461" target="_blank">some random fanart</a> (WARNING: NSFW) of Sothe and Astrid on Danbooru that some Japanese artist had made over 20 years ago. I didn't think much of it at the time, as I just figured it was some crackship the artist had made.</p>
+												<p>Then I played Path of Radiance using Dolphin Emulator and came across their supports. That's when everything changed. If you haven't seen their support conversations, they are probably some of the best in the entire game. It shows a new side to Sothe and reveals a lot about Astrid's character (in ways that I personally can relate to), and is overall a very sweet and wholesome interaction. For the first time I began to genuinely like them as a REAL couple, and that's when they became my absolute favorite ship. I've loved them ever since.</p>
+												<p>I think you can probably guess from here, but the reason I began commissioning them so much was because there was very little art of them to be found anywhere, which I took upon myself to change. I also floated around and commissioned a few other things on the side in my second year (2024) before almost completely committing myself to Sothstrid in 2025 to the present day. Now, while Sothstrid is still a fairly obscure ship, I think my commissions have done a lot to boost its popularity. It's also allowed me to be more creative in these past few years than I have been in all 25+ years of my life.</p>
+												<h5><strong></strong></h5>
+												<p></p>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="accordion" id="accordionAboutMe">
+									<div class="accordion-item">
+										<h2 class="accordion-header" id="headingOne">
+										<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+										Creating this Site and Future Plans
+										</button>
+										</h2>
+										<div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+											<div class="accordion-body">
+												<p>As my commission reportoire grew, I started thinking about having an archive of some kind so people could see them without needing to scroll through my Bluesky or Reddit account.</p>
+												<p>My first attempt at this was with Wix, but that service only allows about 500 MB of storage for free users, AND it's based in Israel (urgh) which my anti-Gaza Genocide ass could never allow. Thankfully Yoostink-san was kind enough to lend me this template that he uses for his own commission site, and I am forever grateful for that.</p>
+												<p>My future plans involve possibly commissioning/writing a Sothstrid doujin, which of course would be way more expensive than the vast majority of my comms. I may also start commissioning M!Edeleth (Edelgard x Male Byleth from Fire Emblem: Three Houses), as that was my PREVIOUS main ship during COVID or so.</p>
+												<h5><strong></strong></h5>
+												<p></p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js" integrity="sha384-eMNCOe7tC1doHpGoWe/6oMVemdAVTMs2xqW4mwXrXsW0L84Iytr2wi5v2QjrP/xp" crossorigin="anonymous"></script>
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.min.js" integrity="sha384-cn7l7gDp0eyniUwwAZgrzD06kc/tftFf19TOAs2zVinnD/C7E91j9yyk5//jjpt/" crossorigin="anonymous"></script>
+	<script type="text/javascript" src="js/data.js"></script>
+	<script type="text/javascript" src="js/script.js"></script>
+</body>
+</html>
