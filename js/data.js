@@ -51,7 +51,7 @@ var data = {
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/9655368941e2.JPG"],
-			thumbnail: "https://cdn.imgchest.com/files/pyvdceb2dky.jpg",
+			thumbnail: "https://cdn.imgchest.com/files/5c06ffbe4689.png",
 			title: "Shez's Endurance Training",
 			artist: "NZZ",
 			artist_url: "https://www.pixiv.net/en/users/1705529",
@@ -519,7 +519,7 @@ var data = {
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/b18b8941b911.png"],
-			thumbnail: "https://cdn.imgchest.com/files/b18b8941b911.png",
+			thumbnail: "https://cdn.imgchest.com/files/8ca31d7a2650.png",
 			title: "Astrid (Zedora)",
 			artist: "Zedora",
 			artist_url: "https://bsky.app/profile/zedoraart.bsky.social",
@@ -567,7 +567,7 @@ var data = {
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/c87b81ef66a1.png"],
-			thumbnail: "https://cdn.imgchest.com/files/e4gdclvaor4.jpg",
+			thumbnail: "https://cdn.imgchest.com/files/6daaec0b4a1b.png",
 			title: "Sothstrid Swimsuit Request",
 			artist: "Rotomdocs",
 			artist_url: "https://x.com/RotomDocs",
@@ -578,7 +578,7 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://cdn.imgchest.com/files/f5ad572f0f54.png, https://cdn.imgchest.com/files/b49ecca6c93e.png, https://cdn.imgchest.com/files/ef2b32fe85ab.png, https://cdn.imgchest.com/files/2331d6884f17.png, https://cdn.imgchest.com/files/8a593f27d8ce.png, https://cdn.imgchest.com/files/0d05c41ecbc3.png"],
+			src: ["https://cdn.imgchest.com/files/f5ad572f0f54.png", "https://cdn.imgchest.com/files/b49ecca6c93e.png", "https://cdn.imgchest.com/files/ef2b32fe85ab.png", "https://cdn.imgchest.com/files/2331d6884f17.png", "https://cdn.imgchest.com/files/8a593f27d8ce.png", "https://cdn.imgchest.com/files/0d05c41ecbc3.png"],
 			thumbnail: "https://cdn.imgchest.com/files/210908a76618.png",
 			title: "Estelle Relaxing",
 			artist: "Aduti Momoyama",
@@ -591,7 +591,7 @@ var data = {
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/7c3c8623153e.png"],
-			thumbnail: "https://cdn.imgchest.com/files/7c3c8623153e.png",
+			thumbnail: "https://cdn.imgchest.com/files/f0c96b28cc5f.png",
 			title: "Modern Sothstrid",
 			artist: "Wwitchii",
 			artist_url: "https://bsky.app/profile/wwitchii.bsky.social",
@@ -662,7 +662,7 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://cdn.imgchest.com/files/5a97ebfa1808.png, https://cdn.imgchest.com/files/465a281786aa.png"],
+			src: ["https://cdn.imgchest.com/files/5a97ebfa1808.png", "https://cdn.imgchest.com/files/465a281786aa.png"],
 			thumbnail: "https://cdn.imgchest.com/files/0a7171c2d94c.png",
 			title: "Kyouko and Akira Nanami",
 			artist: "Symoca",
@@ -722,8 +722,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://cdn.imgchest.com/files/l7lxcwgbe37.png"],
-			thumbnail: "https://cdn.imgchest.com/files/l7lxcwgo5p7.jpg",
+			src: ["https://cdn.imgchest.com/files/3450b23c5d38.png"],
+			thumbnail: "https://cdn.imgchest.com/files/d7d8041be777.png",
 			title: "Sothstrid - A Priceless Gift",
 			artist: "Tamafry",
 			artist_url: "https://bsky.app/profile/tamafry.com",
@@ -754,12 +754,12 @@ var data = {
 			art_url: null,
 			desc: "Muscular women...",
 			date_str: "March 27th 2026",
-			tags: ["other characters, fire emblem, nsfw"],
+			tags: ["other characters", "fire emblem", "nsfw"],
 			hidden: false
 		},
 		{
-			src: ["https://cdn.imgchest.com/files/k739conrew7.jpg"],
-			thumbnail: "https://cdn.imgchest.com/files/3yrgcwkejk4.jpg",
+			src: ["https://cdn.imgchest.com/files/7995d738f126.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/82f3860ed082.png",
 			title: "Sothstrid Passion",
 			artist: "Ihsnet",
 			artist_url: "https://x.com/LambdaIhs",
