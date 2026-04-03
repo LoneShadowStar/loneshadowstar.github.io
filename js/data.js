@@ -368,7 +368,7 @@ var data = {
 			artist_url: "https://x.com/Ihsnet",
 			art_url: "https://x.com/Ihsnet/status/1958309494489801101?s=20",
 			desc: "This is another piece that I really love. I really like how cute Astrid looks and how disgruntled Sothe is carrying her on his shoulders (even if he seems a little too angry for my liking.)",
-			date_str: "August 19th 2025",
+			date_str: "August 19th, 2025",
 			tags: ["astrid", "sothe", "fire emblem", "sfw"],
 			hidden: false
 		},
@@ -380,7 +380,7 @@ var data = {
 			artist_url: "https://bsky.app/profile/rotomdocs.bsky.social",
 			art_url: null,
 			desc: "The rare Rotomdocs commission after I was lucky enough to secure a slot with him. Man, I forgot how much I love this meme.",
-			date_str: "August 22nd 2025",
+			date_str: "August 22nd, 2025",
 			tags: ["astrid", "fire emblem", "memes", "nsfw"],
 			hidden: false
 		},
@@ -392,7 +392,7 @@ var data = {
 			artist_url: "https://bsky.app/profile/misokatsuhaumai.bsky.social",
 			art_url: null,
 			desc: "The very first image of Estelle, Sothe and Astrid's daughter, after existing as a small sketch inside my idea notebook. I remember Mason being VERY excited to draw her when I first sent the request to them, and I could tell throughout that they really enjoyed designing her. They even included an alternate color for Estelle's vest that until now I have never shared to anyone.",
-			date_str: "September 13th 2025",
+			date_str: "September 13th, 2025",
 			tags: ["estelle", "fire emblem", "original", "sfw"],
 			hidden: false
 		},
@@ -404,7 +404,7 @@ var data = {
 			artist_url: "https://x.com/nsfw18_sierra",
 			art_url: null,
 			desc: "This was the first piece where I actually drew the reference myself instead of using a pre-existing image, and I really like how it turned out. Also Sierra sent me an alternate pose during the sketch process that I really liked, so I paid her extra to finish that extra sketch. Also the fact I got this around the same time I got my first Estelle comm... Hmmm...",
-			date_str: "September 14th 2025",
+			date_str: "September 14th, 2025",
 			tags: ["astrid", "sothe", "fire emblem", "nsfw"],
 			hidden: false
 		},
@@ -416,7 +416,7 @@ var data = {
 			artist_url: "https://x.com/SethsLilSecret",
 			art_url: "https://x.com/SethsLilSecret/status/1982988872180215833",
 			desc: "A sort of rarepair from Three Hopes that I found myself really liking, even though I haven't commissioned them often. I really love the passion between them in this piece.",
-			date_str: "September 14th 2025",
+			date_str: "September 14th, 2025",
 			tags: ["m!shez", "catherine", "fire emblem", "nsfw"],
 			hidden: false
 		},
@@ -428,7 +428,7 @@ var data = {
 			artist_url: "https://bsky.app/profile/lazzledazzle.bsky.social",
 			art_url: null,
 			desc: "A funny little 4koma from Lazzle, based on another idea that had sat in my backlog for a long time. Featuring Marcia from the Fire Emblem series.",
-			date_str: "October 2nd 2025",
+			date_str: "October 2nd, 2025",
 			tags: ["astrid", "sothe", "marcia", "fire emblem", "sfw"],
 			hidden: false
 		},
@@ -440,7 +440,7 @@ var data = {
 			artist_url: "https://bsky.app/profile/tamafry.com",
 			art_url: "https://bsky.app/profile/tamafry.com/post/3m2uw7sszms2f",
 			desc: "This actually came out a little later than I had wanted, but the art itself did NOT disappoint me. Once again, Tama really outdid themselves here.",
-			date_str: "October 8th 2025",
+			date_str: "October 8th, 2025",
 			tags: ["astrid", "sothe", "fire emblem", "sfw"],
 			hidden: false
 		},
@@ -452,7 +452,7 @@ var data = {
 			artist_url: "https://www.pixiv.net/en/users/71112175",
 			art_url: "https://www.pixiv.net/en/artworks/137441593",
 			desc: "Another experimental shotacon piece that, unfortunately, I regret requesting. Again, I don't like sharing this one because of that, but I'll still include it for completion's sake.",
-			date_str: "October 22nd 2025",
+			date_str: "October 22nd, 2025",
 			tags: ["other characters", "fire emblem", "nsfw"],
 			hidden: true
 		},
@@ -464,7 +464,7 @@ var data = {
 			artist_url: "https://bsky.app/profile/rani-ki.bsky.social",
 			art_url: null,
 			desc: "What can I say about this piece? It's absolutely beautiful and I love it.",
-			date_str: "October 27th 2025",
+			date_str: "October 27th, 2025",
 			tags: ["astrid", "sothe", "fire emblem", "nsfw"],
 			hidden: false
 		},
@@ -476,7 +476,7 @@ var data = {
 			artist_url: "https://x.com/symocosmos",
 			art_url: "https://vgen.co/Symoca/portfolio/showcase/halloween-astrid-and-sothe-/e42b59f4-2499-4a93-85c4-d89eb37c55c5",
 			desc: "As the title implies, this was intended to be made on Halloween. However, I KINDA forgot to actually request it until a few days before Halloween. As a result I told Symoca that I wanted this done quickly, though still within a reasonable timeframe, and she accepted. I am forever grateful for the fact she accepted the request on such short notice.",
-			date_str: "November 2nd 2025",
+			date_str: "November 2nd, 2025",
 			tags: ["astrid", "sothe", "fire emblem", "sfw"],
 			hidden: false
 		},
@@ -488,7 +488,7 @@ var data = {
 			artist_url: "https://bsky.app/profile/lazzledazzle.bsky.social",
 			art_url: null,
 			desc: "A recreation of the \"Special Feeling\" meme with Sothe and Astrid.",
-			date_str: "November 16th 2025",
+			date_str: "November 16th, 2025",
 			tags: ["astrid", "sothe", "fire emblem", "memes", "sfw"],
 			hidden: false
 		},
@@ -500,7 +500,7 @@ var data = {
 			artist_url: "https://bsky.app/profile/evomanaphy.bsky.social",
 			art_url: null,
 			desc: "The first time I commissioned Evomanaphy after wanting to commission them for a long time. I really love how cute this ended up being.",
-			date_str: "November 25th 2025",
+			date_str: "November 25th, 2025",
 			tags: ["astrid", "sothe", "fire emblem", "sfw"],
 			hidden: false
 		},
@@ -512,7 +512,7 @@ var data = {
 			artist_url: "https://bsky.app/profile/zedoraart.bsky.social",
 			art_url: "https://bsky.app/profile/zedoraart.bsky.social/post/3m6n66z2g6c2x",
 			desc: "A rare commission where I requested Astrid on her own without Sothe.",
-			date_str: "November 26th 2025",
+			date_str: "November 26th, 2025",
 			tags: ["astrid", "fire emblem", "sfw"],
 			hidden: false
 		},
@@ -524,7 +524,7 @@ var data = {
 			artist_url: "https://bsky.app/profile/pomelomelon.bsky.social",
 			art_url: null,
 			desc: "A recreation of the \"Are You a Virgin?\" meme from Tokyo Ghoul with Sonya and Atlas. This was originally going to be yet another Sothe x Astrid piece (because I'm so predictable), but I decided to go with Sonya x Atlas instead because 1) It's been a while since I commissioned something with them, and 2) I thought it was more in-character for Sonya to ask the question to someone.",
-			date_str: "December 2nd 2025",
+			date_str: "December 2nd, 2025",
 			tags: ["sonya", "atlas", "fire emblem", "memes", "nsfw"],
 			hidden: false
 		},
@@ -536,7 +536,7 @@ var data = {
 			artist_url: "https://bsky.app/profile/misokatsuhaumai.bsky.social",
 			art_url: "https://bsky.app/profile/misokatsuhaumai.bsky.social/post/3m77rq5vs7s2n",
 			desc: "One of the Mason's \"Filter-Heavy Doodles\" that they would post on X to keep their X account alive, before ultimately deleting it entirely. Since they deleted it, I was given permission by Mason to upload the non-filtered version here.",
-			date_str: "December 5th 2025",
+			date_str: "December 5th, 2025",
 			tags: ["astrid", "fire emblem", "sfw"],
 			hidden: false
 		},
@@ -548,7 +548,7 @@ var data = {
 			artist_url: "https://bsky.app/profile/gzeidraws.bsky.social",
 			art_url: "https://bsky.app/profile/gzeidraws.bsky.social/post/3m7ojek4x3224",
 			desc: "A fun idea I had when I started thinking about what Sothe and Astrid would be like as parents, especially when Estelle was younger. Gzei absolutely nailed the idea as always. I especially love the little pouting expression Estelle has.",
-			date_str: "December 10th 2025",
+			date_str: "December 10th, 2025",
 			tags: ["astrid", "sothe", "estelle", "fire emblem", "original", "sfw"],
 			hidden: false
 		},
