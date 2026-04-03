@@ -765,8 +765,20 @@ var data = {
 			artist_url: "https://x.com/LambdaIhs",
 			art_url: null,
 			desc: "Man, the passion in this image is palpable.",
-			date_str: "March 30th 2026",
+			date_str: "March 30th, 2026",
 			tags: ["astrid", "sothe", "fire emblem", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/00cf12dafb66.png"],
+			thumbnail: "https://cdn.imgchest.com/files/f5f23582b69e.png",
+			title: "Sonya's Boobs",
+			artist: "Evomanaphy",
+			artist_url: "https://bsky.app/profile/evomanaphy.bsky.social",
+			art_url: null,
+			desc: "An April Fools sketch comm that I requested on Evo's Ko-Fi after she had advertised it on a Discord server I'm on. It's a bit low-effort (as that was the point), but I still absolutely love it.",
+			date_str: "April 1st, 2026",
+			tags: ["atlas", "sonya", "fire emblem", "sfw"],
 			hidden: false
 		},
 /* Template */
