@@ -1,5 +1,18 @@
 var data = {
 	images: [
+/* Tag Sorter */
+		{
+			src: [""],
+			thumbnail: "",
+			title: "",
+			artist: "",
+			artist_url: "",
+			art_url: "",
+			desc: "",
+			date_str: "",
+			tags: [""],
+			hidden: true
+		},
 		{
 			src: ["https://cdn.imgchest.com/files/3055d991d2ac.JPG"],
 			thumbnail: "https://cdn.imgchest.com/files/22fbdf4933c7.png",
@@ -45,7 +58,7 @@ var data = {
 			art_url: "https://www.pixiv.net/en/artworks/109904854",
 			desc: "First comm featuring Shez, Shamir, and Catherine.",
 			date_str: "July 2023",
-			tags: ["male shez", "catherine", "shamir", "nsfw"],
+			tags: ["male_shez", "catherine", "shamir", "nsfw"],
 			hidden: false
 		},
 		{
@@ -69,7 +82,7 @@ var data = {
 			art_url: null,
 			desc: null,
 			date_str: "November 2023",
-			tags: ["female shez", "shamir", "fire emblem", "nsfw"],
+			tags: ["female_shez", "shamir", "fire emblem", "nsfw"],
 			hidden: false
 		},
 		{
@@ -129,7 +142,7 @@ var data = {
 			art_url: "https://x.com/SethsLilSecret/status/1836363150586695740",
 			desc: "A shockingly underrated pairing I instantly fell in love with when I saw their supports.",
 			date_str: "September 2024",
-			tags: ["female shez", "lysithea", "fire emblem", "nsfw"],
+			tags: ["female_shez", "lysithea", "fire emblem", "nsfw"],
 			hidden: false
 		},
 		{
@@ -189,7 +202,7 @@ var data = {
 			art_url: "https://x.com/SethsLilSecret/status/1881098641139810523",
 			desc: null,
 			date_str: "January 17th, 2025",
-			tags: ["female shez", "lysithea", "fire emblem", "nsfw"],
+			tags: ["female_shez", "lysithea", "fire emblem", "nsfw"],
 			hidden: false
 		},
 		{
@@ -385,7 +398,7 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://cdn.imgchest.com/files/4674727ba881.png, https://cdn.imgchest.com/files/d19d76bf7544.png"],
+			src: ["https://cdn.imgchest.com/files/4674727ba881.png", "https://cdn.imgchest.com/files/d19d76bf7544.png"],
 			thumbnail: "https://cdn.imgchest.com/files/f56a2b857738.png",
 			title: "Estelle",
 			artist: "Misokatsuhaumai",
@@ -417,7 +430,7 @@ var data = {
 			art_url: "https://x.com/SethsLilSecret/status/1982988872180215833",
 			desc: "A sort of rarepair from Three Hopes that I found myself really liking, even though I haven't commissioned them often. I really love the passion between them in this piece.",
 			date_str: "September 14th, 2025",
-			tags: ["male shez", "catherine", "fire emblem", "nsfw"],
+			tags: ["male_shez", "catherine", "fire emblem", "nsfw"],
 			hidden: false
 		},
 		{
@@ -625,7 +638,7 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://cdn.imgchest.com/files/8d4876315a5e.png, https://cdn.imgchest.com/files/34bae1931609.png, https://cdn.imgchest.com/files/ed1c5d38be98.png, https://cdn.imgchest.com/files/6f270f569d9f.png, https://cdn.imgchest.com/files/fe99162feefc.png, https://cdn.imgchest.com/files/069e0bcb4876.png, https://cdn.imgchest.com/files/6576fda70b8f.png"],
+			src: ["https://cdn.imgchest.com/files/8d4876315a5e.png", "https://cdn.imgchest.com/files/34bae1931609.png", "https://cdn.imgchest.com/files/ed1c5d38be98.png", "https://cdn.imgchest.com/files/6f270f569d9f.png", "https://cdn.imgchest.com/files/fe99162feefc.png", "https://cdn.imgchest.com/files/069e0bcb4876.png", "https://cdn.imgchest.com/files/6576fda70b8f.png"],
 			thumbnail: "https://cdn.imgchest.com/files/df5e3a0618c5.png",
 			title: "Vote Astrid for CYL! (and Sothe too)",
 			artist: "Majibomber",
@@ -721,7 +734,7 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://cdn.imgchest.com/files/e58be89ff804.jpg, https://cdn.imgchest.com/files/e252ecadcebf.jpg"],
+			src: ["https://cdn.imgchest.com/files/e58be89ff804.jpg", "https://cdn.imgchest.com/files/e252ecadcebf.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/af8b2c2b957e.png",
 			title: "Sothstrid - Keeping Astrid Close",
 			artist: "Pudel",
@@ -733,7 +746,7 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://cdn.imgchest.com/files/13e4a452c0aa.jpg, https://cdn.imgchest.com/files/ae6dd2db2996.jpg"],
+			src: ["https://cdn.imgchest.com/files/13e4a452c0aa.jpg", "https://cdn.imgchest.com/files/ae6dd2db2996.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/5ec627cf790f.png",
 			title: "Thjazi Pegging Kiran",
 			artist: "Lewdpala",
@@ -741,7 +754,7 @@ var data = {
 			art_url: null,
 			desc: "Muscular women...",
 			date_str: "March 27th 2026",
-			tags: ["other characters", "fire emblem", "nsfw"],
+			tags: ["other characters, fire emblem, nsfw"],
 			hidden: false
 		},
 		{

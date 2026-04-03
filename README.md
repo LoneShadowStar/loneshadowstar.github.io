@@ -2,7 +2,7 @@
 
 ## About
 
-This is a webpage for my art commissions. Check it out! [https://loneshadowstar.github.io/commissions/](https://loneshadowstar.github.io/commissions/)
+This is a webpage for my art commissions. Check it out! [https://loneshadowstar.github.io](https://loneshadowstar.github.io)
 
 For any questions about the gallery site or how to use the template, contact Yoostink, as I am not the creator of this template.
 
