@@ -45,7 +45,7 @@ var data = {
 			art_url: "https://www.pixiv.net/en/artworks/109904854",
 			desc: "First comm featuring Shez, Shamir, and Catherine.",
 			date_str: "July 2023",
-			tags: ["m!shez, catherine, shamir, nsfw"],
+			tags: ["m!shez", "catherine", "shamir", "nsfw"],
 			hidden: false
 		},
 		{
@@ -57,7 +57,7 @@ var data = {
 			art_url: "https://www.pixiv.net/artworks/111756077",
 			desc: "First comm from Ebinku.",
 			date_str: "October 2023",
-			tags: ["other character, fire emblem, nsfw"],
+			tags: ["other character", "fire emblem", "nsfw"],
 			hidden: false
 		},
 		{
@@ -69,7 +69,7 @@ var data = {
 			art_url: null,
 			desc: null,
 			date_str: "November 2023",
-			tags: ["f!shez, shamir, fire emblem, nsfw"],
+			tags: ["f!shez", "shamir", "fire emblem", "nsfw"],
 			hidden: false
 		},
 		{
@@ -81,7 +81,7 @@ var data = {
 			art_url: "https://x.com/ebinkuu/status/1748086690848084301",
 			desc: "First comm of Atlas and Sonya. AKA the day I introduced people to my crackship for the first time.",
 			date_str: "January 2024",
-			tags: ["sonya, atlas, fire emblem, sfw"],
+			tags: ["sonya", "atlas", "fire emblem", "sfw"],
 			hidden: false
 		},
 		{
@@ -93,7 +93,7 @@ var data = {
 			art_url: "https://x.com/tamafries/status/1756419768754614682",
 			desc: "First of many comms from Tamafry. I also have a physical print version that I bought from them. This was also the piece that made me think I had something going here with these two, leading to me fully committing myself to them.",
 			date_str: "February 2024",
-			tags: ["astrid, sothe, fire emblem, sfw"],
+			tags: ["astrid", "sothe", "fire emblem", "sfw"],
 			hidden: false
 		},
 		{
@@ -105,7 +105,7 @@ var data = {
 			art_url: "https://www.pixiv.net/en/artworks/118540970",
 			desc: "A follow-up to my previous Sonya x Atlas piece.",
 			date_str: "May 2024",
-			tags: ["atlas, sonya, fire emblem, nsfw"],
+			tags: ["sonya", "atlas", "fire emblem", "nsfw"],
 			hidden: false
 		},
 		{
@@ -117,7 +117,7 @@ var data = {
 			art_url: "https://x.com/munedraws/status/1824148294769185138",
 			desc: "A character from the Visual Novel/RPG Toushin Toshi Girl's Gift by Alicesoft, a remake of Toushin Toshi II for the PC-98. ...I just realized, she kinda looks like a teenage Catherine, doesn't she?",
 			date_str: "August 2024",
-			tags: ["other characters, alicesoft, visual novels, sfw"],
+			tags: ["other characters", "alicesoft", "visual novels", "sfw"],
 			hidden: false
 		},
 		{
@@ -129,7 +129,7 @@ var data = {
 			art_url: "https://x.com/SethsLilSecret/status/1836363150586695740",
 			desc: "A shockingly underrated pairing I instantly fell in love with when I saw their supports.",
 			date_str: "September 2024",
-			tags: ["f!shez, lysithea, fire emblem, nsfw"],
+			tags: ["f!shez", "lysithea", "fire emblem", "nsfw"],
 			hidden: false
 		},
 		{
@@ -141,7 +141,7 @@ var data = {
 			art_url: "https://x.com/munedraws/status/1841885143419777534",
 			desc: "Milli from the RPG series Rance by Alicesoft, based on her outfit from Kichikuou Rance. If you're interested in playing it, I should warn you it does contain a LOT of NSFW.",
 			date_str: "October 2024",
-			tags: ["other characters, alicesoft, visual novels, sfw"],
+			tags: ["other characters", "alicesoft", "visual novels", "sfw"],
 			hidden: false
 		},
 		{
@@ -153,7 +153,7 @@ var data = {
 			art_url: "https://bsky.app/profile/misscherrylle.bsky.social/post/3lcl3d46pec25",
 			desc: "I didn't realize how long I had gone without Sothstrid until I uploaded this piece lmao. Also my first VGen commission!",
 			date_str: "December 3rd 2024",
-			tags: ["astrid, sothe, fire emblem, nsfw"],
+			tags: ["astrid", "sothe", "fire emblem", "nsfw"],
 			hidden: false
 		},
 		{
@@ -165,7 +165,7 @@ var data = {
 			art_url: null,
 			desc: "Two main characters from the Visual Novel Katei-Kyoushi no Onee-san by Atelier Kaguya. Yes, it's also a hentai, but one I found myself genuinely enjoying outside of the sex scenes.",
 			date_str: "December 20th 2024",
-			tags: ["other characters, visual novels, sfw"],
+			tags: ["other characters", "visual novels", "sfw"],
 			hidden: false
 		},
 		{
@@ -177,7 +177,7 @@ var data = {
 			art_url: null,
 			desc: "More Girls Gift characters! From left to right, they are Pachikar, Hasaera Rabi, and Labelcase. They're only minor bosses in the game they appear in, but they have enough personality to stick in my mind despite this, especially Pachikar.",
 			date_str: "January 13th 2025",
-			tags: ["pachikar, other characters, alicesoft, visual novels, nsfw"],
+			tags: ["pachikar", "other characters", "alicesoft", "visual novels", "nsfw"],
 			hidden: false
 		},
 		{
@@ -189,7 +189,7 @@ var data = {
 			art_url: "https://x.com/SethsLilSecret/status/1881098641139810523",
 			desc: null,
 			date_str: "January 17th, 2025",
-			tags: ["f!shez, lysithea, fire emblem, nsfw"],
+			tags: ["f!shez", "lysithea", "fire emblem", "nsfw"],
 			hidden: false
 		},
 		{
@@ -201,7 +201,7 @@ var data = {
 			art_url: "https://vgen.co/Symoca/portfolio/showcase/sothe-astrid/be5036d0-816a-4c6f-afcc-3490c0485fdf",
 			desc: "First comm by Symoca. I love Astrid's expression here, she looks so cute!",
 			date_str: "January 26th, 2025",
-			tags: ["astrid, sothe, fire emblem, sfw"],
+			tags: ["astrid", "sothe", "fire emblem", "sfw"],
 			hidden: false
 		},
 		{
@@ -213,7 +213,7 @@ var data = {
 			art_url: "https://bsky.app/profile/tamafry.com/post/3liqg2aqess27",
 			desc: "The original idea behind this piece was for some kind of situation where Sothe suddenly hugged Astrid from behind, making her flustered. The idea was there, but I never knew how best to execute it.  Then I played Fire Emblem Heroes and was inspired by the Hot Spring event in that game's Heroes Journey event, and so this commission was born.",
 			date_str: "February 2025",
-			tags: ["astrid, sothe, fire emblem, nsfw"],
+			tags: ["astrid", "sothe", "fire emblem", "nsfw"],
 			hidden: false
 		},
 		{
@@ -225,7 +225,7 @@ var data = {
 			art_url: "https://x.com/munedraws/status/1915445730849837344",
 			desc: "Went through a period of rest for March due to financial stress at the time, but returned with a vengeance! ...Oh, and this piece, too.",
 			date_str: "April 24th, 2025",
-			tags: ["other characters, fire emblem, sfw"],
+			tags: ["other characters", "fire emblem", "sfw"],
 			hidden: false
 		},
 		{
@@ -249,7 +249,7 @@ var data = {
 			art_url: "https://bsky.app/profile/adricarra.bsky.social/post/3lpme53eafs2c",
 			desc: "This piece... This fucking masterpiece... Is probably one of my all-time favorite SothStrid commissions. I really like Astrid's smile as she looks down at Sothe underneath her, and the way she has a hand on Sothe's cheek (and vice versa for Sothe). Also, I can confirm... Yes, they had sex beforehand.",
 			date_str: "May 18th, 2025",
-			tags: ["astrid, sothe, fire emblem, sfw"],
+			tags: ["astrid", "sothe", "fire emblem", "sfw"],
 			hidden: false
 		},
 		{
@@ -261,7 +261,7 @@ var data = {
 			art_url: "https://vgen.co/Symoca/portfolio/showcase/asako-machida/3aa16119-37b6-47ca-97dd-8acdc5d55322",
 			desc: "Character from the PC98 visual novel Circle Mate by Softhouse Bonbee Bonbon. The game was surprisingly good, and I wholeheartedly recommend it. Though there IS NSFW content in it.",
 			date_str: "May 24th, 2025",
-			tags: ["other characters, visual novels, sfw"],
+			tags: ["other characters", "visual novels", "sfw"],
 			hidden: false
 		},
 		{
@@ -273,7 +273,7 @@ var data = {
 			art_url: null,
 			desc: "This was one of two pieces where I was being experimental with an Onee-Shota dynamic, expressing ideas that I felt could not be expressed anywhere else. I actually regret requesting these and don't like sharing them very much, but I'll still include them here for completion's sake.",
 			date_str: "May 29th, 2025",
-			tags: ["other characters, fire emblem, nsfw"],
+			tags: ["other characters", "fire emblem", "nsfw"],
 			hidden: true
 		},
 		{
@@ -285,7 +285,7 @@ var data = {
 			art_url: null,
 			desc: "Man, this has to be one of my favorite NSFW Sothstrid comms. The way Astrid moans and looks down as Sothe eats her out... Oooof, that's good shit.",
 			date_str: "June 13th 2025",
-			tags: ["astrid, sothe, fire emblem, nsfw"],
+			tags: ["astrid", "sothe", "fire emblem", "nsfw"],
 			hidden: false
 		},
 		{
@@ -297,7 +297,7 @@ var data = {
 			art_url: "https://x.com/sierra117renner/status/1936636009032327223",
 			desc: "Some of y'all may recognize this as my profile picture on BlueSky and Discord, lol.",
 			date_str: "June 20th, 2025",
-			tags: ["astrid, sothe, fire emblem, sfw"],
+			tags: ["astrid", "sothe", "fire emblem", "sfw"],
 			hidden: false
 		},
 		{
@@ -309,7 +309,7 @@ var data = {
 			art_url: "https://x.com/munedraws/status/1938276677831868674",
 			desc: "The first commission that uses the summer design for Astrid I had conceived. The pendant she wears is the same one her grandmother gave her.",
 			date_str: "June 26th, 2025",
-			tags: ["astrid, sothe, fire emblem, sfw"],
+			tags: ["astrid", "sothe", "fire emblem", "sfw"],
 			hidden: false
 		},
 		{
@@ -321,7 +321,7 @@ var data = {
 			art_url: null,
 			desc: null,
 			date_str: "June 27th, 2025",
-			tags: ["astrid, sothe, fire emblem, nsfw"],
+			tags: ["astrid", "sothe", "fire emblem", "nsfw"],
 			hidden: false
 		},
 		{
@@ -333,7 +333,7 @@ var data = {
 			art_url: "https://bsky.app/profile/misokatsuhaumai.bsky.social/post/3lszwzfzo5k2x",
 			desc: "First comm from Mason aka Misokatsuhaumai. They would end up being one of my greatest supporters of the ship, and also instrumental in the creation of Estelle, Sothe and Astrid's fan-daughter.",
 			date_str: "June 30 2025",
-			tags: ["astrid, sothe, fire emblem, sfw"],
+			tags: ["astrid", "sothe", "fire emblem", "sfw"],
 			hidden: false
 		},
 		{
@@ -345,7 +345,7 @@ var data = {
 			art_url: "https://bsky.app/profile/gzeidraws.bsky.social/post/3ltsxes7sl22g",
 			desc: "This was an idea that had been sitting in my backlog for a long time, lol. Also, by pure coincidence, it was finished on my birthday. Definitely a good birthday gift though!",
 			date_str: "July 11th 2025",
-			tags: ["astrid, sothe, fire emblem, sfw"],
+			tags: ["astrid", "sothe", "fire emblem", "sfw"],
 			hidden: false
 		},
 		{
@@ -357,7 +357,7 @@ var data = {
 			art_url: null,
 			desc: "This was actually based on an old Sothstrid piece from the stone age that I thought was really cute. I don't know who drew the original, as I found it randomly on Gelbooru and the uploader didn't credit them. That original can be found <a href=https://gelbooru.com/index.php?page=post&s=view&id=986437>here.</a>",
 			date_str: "August 15th 2025",
-			tags: ["astrid, sothe, fire emblem, sfw"],
+			tags: ["astrid", "sothe", "fire emblem", "sfw"],
 			hidden: false
 		},
 		{
@@ -369,7 +369,7 @@ var data = {
 			art_url: "https://x.com/Ihsnet/status/1958309494489801101?s=20",
 			desc: "This is another piece that I really love. I really like how cute Astrid looks and how disgruntled Sothe is carrying her on his shoulders (even if he seems a little too angry for my liking.)",
 			date_str: "August 19th 2025",
-			tags: ["astrid, sothe, fire emblem, sfw"],
+			tags: ["astrid", "sothe", "fire emblem", "sfw"],
 			hidden: false
 		},
 		{
@@ -381,7 +381,7 @@ var data = {
 			art_url: null,
 			desc: "The rare Rotomdocs commission after I was lucky enough to secure a slot with him. Man, I forgot how much I love this meme.",
 			date_str: "August 22nd 2025",
-			tags: ["astrid, fire emblem, memes, nsfw"],
+			tags: ["astrid", "fire emblem", "memes", "nsfw"],
 			hidden: false
 		},
 		{
@@ -393,7 +393,7 @@ var data = {
 			art_url: null,
 			desc: "The very first image of Estelle, Sothe and Astrid's daughter, after existing as a small sketch inside my idea notebook. I remember Mason being VERY excited to draw her when I first sent the request to them, and I could tell throughout that they really enjoyed designing her. They even included an alternate color for Estelle's vest that until now I have never shared to anyone.",
 			date_str: "September 13th 2025",
-			tags: ["estelle, fire emblem, original, sfw"],
+			tags: ["estelle", "fire emblem", "original", "sfw"],
 			hidden: false
 		},
 		{
@@ -405,7 +405,7 @@ var data = {
 			art_url: null,
 			desc: "This was the first piece where I actually drew the reference myself instead of using a pre-existing image, and I really like how it turned out. Also Sierra sent me an alternate pose during the sketch process that I really liked, so I paid her extra to finish that extra sketch. Also the fact I got this around the same time I got my first Estelle comm... Hmmm...",
 			date_str: "September 14th 2025",
-			tags: ["astrid, sothe, fire emblem, nsfw"],
+			tags: ["astrid", "sothe", "fire emblem", "nsfw"],
 			hidden: false
 		},
 		{
@@ -417,7 +417,7 @@ var data = {
 			art_url: "https://x.com/SethsLilSecret/status/1982988872180215833",
 			desc: "A sort of rarepair from Three Hopes that I found myself really liking, even though I haven't commissioned them often. I really love the passion between them in this piece.",
 			date_str: "September 14th 2025",
-			tags: ["m!shez, catherine, fire emblem, nsfw"],
+			tags: ["m!shez", "catherine", "fire emblem", "nsfw"],
 			hidden: false
 		},
 		{
@@ -429,7 +429,7 @@ var data = {
 			art_url: null,
 			desc: "A funny little 4koma from Lazzle, based on another idea that had sat in my backlog for a long time. Featuring Marcia from the Fire Emblem series.",
 			date_str: "October 2nd 2025",
-			tags: ["astrid, sothe, marcia, fire emblem, sfw"],
+			tags: ["astrid", "sothe", "marcia", "fire emblem", "sfw"],
 			hidden: false
 		},
 		{
@@ -441,7 +441,7 @@ var data = {
 			art_url: "https://bsky.app/profile/tamafry.com/post/3m2uw7sszms2f",
 			desc: "This actually came out a little later than I had wanted, but the art itself did NOT disappoint me. Once again, Tama really outdid themselves here.",
 			date_str: "October 8th 2025",
-			tags: ["astrid, sothe, fire emblem, sfw"],
+			tags: ["astrid", "sothe", "fire emblem", "sfw"],
 			hidden: false
 		},
 		{
@@ -453,7 +453,7 @@ var data = {
 			art_url: "https://www.pixiv.net/en/artworks/137441593",
 			desc: "Another experimental shotacon piece that, unfortunately, I regret requesting. Again, I don't like sharing this one because of that, but I'll still include it for completion's sake.",
 			date_str: "October 22nd 2025",
-			tags: ["other characters, fire emblem, nsfw"],
+			tags: ["other characters", "fire emblem", "nsfw"],
 			hidden: true
 		},
 		{
@@ -465,7 +465,7 @@ var data = {
 			art_url: null,
 			desc: "What can I say about this piece? It's absolutely beautiful and I love it.",
 			date_str: "October 27th 2025",
-			tags: ["astrid, sothe, fire emblem, nsfw"],
+			tags: ["astrid", "sothe", "fire emblem", "nsfw"],
 			hidden: false
 		},
 		{
@@ -477,7 +477,7 @@ var data = {
 			art_url: "https://vgen.co/Symoca/portfolio/showcase/halloween-astrid-and-sothe-/e42b59f4-2499-4a93-85c4-d89eb37c55c5",
 			desc: "As the title implies, this was intended to be made on Halloween. However, I KINDA forgot to actually request it until a few days before Halloween. As a result I told Symoca that I wanted this done quickly, though still within a reasonable timeframe, and she accepted. I am forever grateful for the fact she accepted the request on such short notice.",
 			date_str: "November 2nd 2025",
-			tags: ["astrid, sothe, fire emblem, nsfw"],
+			tags: ["astrid", "sothe", "fire emblem", "sfw"],
 			hidden: false
 		},
 		{
@@ -489,7 +489,7 @@ var data = {
 			art_url: null,
 			desc: "A recreation of the \"Special Feeling\" meme with Sothe and Astrid.",
 			date_str: "November 16th 2025",
-			tags: ["astrid, sothe, fire emblem, memes, sfw"],
+			tags: ["astrid", "sothe", "fire emblem", "memes", "sfw"],
 			hidden: false
 		},
 		{
@@ -501,7 +501,7 @@ var data = {
 			art_url: null,
 			desc: "The first time I commissioned Evomanaphy after wanting to commission them for a long time. I really love how cute this ended up being.",
 			date_str: "November 25th 2025",
-			tags: ["astrid, sothe, fire emblem, sfw"],
+			tags: ["astrid", "sothe", "fire emblem", "sfw"],
 			hidden: false
 		},
 		{
@@ -511,9 +511,9 @@ var data = {
 			artist: "Zedora",
 			artist_url: "https://bsky.app/profile/zedoraart.bsky.social",
 			art_url: "https://bsky.app/profile/zedoraart.bsky.social/post/3m6n66z2g6c2x",
-			desc: "A rare commission where I request Astrid on her own without Sothe.",
+			desc: "A rare commission where I requested Astrid on her own without Sothe.",
 			date_str: "November 26th 2025",
-			tags: ["astrid, fire emblem, sfw"],
+			tags: ["astrid", "fire emblem", "sfw"],
 			hidden: false
 		},
 		{
@@ -525,7 +525,7 @@ var data = {
 			art_url: null,
 			desc: "A recreation of the \"Are You a Virgin?\" meme from Tokyo Ghoul with Sonya and Atlas. This was originally going to be yet another Sothe x Astrid piece (because I'm so predictable), but I decided to go with Sonya x Atlas instead because 1) It's been a while since I commissioned something with them, and 2) I thought it was more in-character for Sonya to ask the question to someone.",
 			date_str: "December 2nd 2025",
-			tags: ["atlas, sonya, fire emblem, memes, nsfw"],
+			tags: ["sonya", "atlas", "fire emblem", "memes", "nsfw"],
 			hidden: false
 		},
 		{
@@ -537,7 +537,7 @@ var data = {
 			art_url: "https://bsky.app/profile/misokatsuhaumai.bsky.social/post/3m77rq5vs7s2n",
 			desc: "One of the Mason's \"Filter-Heavy Doodles\" that they would post on X to keep their X account alive, before ultimately deleting it entirely. Since they deleted it, I was given permission by Mason to upload the non-filtered version here.",
 			date_str: "December 5th 2025",
-			tags: ["astrid, fire emblem, sfw"],
+			tags: ["astrid", "fire emblem", "sfw"],
 			hidden: false
 		},
 		{
@@ -549,7 +549,7 @@ var data = {
 			art_url: "https://bsky.app/profile/gzeidraws.bsky.social/post/3m7ojek4x3224",
 			desc: "A fun idea I had when I started thinking about what Sothe and Astrid would be like as parents, especially when Estelle was younger. Gzei absolutely nailed the idea as always. I especially love the little pouting expression Estelle has.",
 			date_str: "December 10th 2025",
-			tags: ["astrid, sothe, estelle, fire emblem, sfw"],
+			tags: ["astrid", "sothe", "estelle", "fire emblem", "original", "sfw"],
 			hidden: false
 		},
 		{
@@ -561,7 +561,7 @@ var data = {
 			art_url: "https://x.com/rotomdocs/status/2000752566003753314",
 			desc: "Another rare Rotomdocs comm that I was somehow lucky enough to get. Looking at it again, I never realized until now how much I needed Sothe with abs...",
 			date_str: "December 11th 2025",
-			tags: ["astrid, sothe, fire emblem, sfw"],
+			tags: ["astrid", "sothe", "fire emblem", "sfw"],
 			hidden: false
 		},
 		{
@@ -573,7 +573,7 @@ var data = {
 			art_url: "https://skeb.jp/@aduti_momoyama/works/31",
 			desc: "This was one of my first commissions through Skeb after being unable to use it for years due to Credit Card Issues. I honestly really like how it turned out, though in my opinion the mouth looks a little off. What I didn't expect was that the artist ALSO sent me several rough sketches showing alternate poses for her, some of which actually looked pretty interesting (as shown here.) I really like the second and third one out of those sketches, even if number 3 is a little out of character for Estelle. The first sketch looks like she's about to rape me, though. Eugh.",
 			date_str: "December 22nd 2025",
-			tags: ["estelle, fire emblem, sfw"],
+			tags: ["estelle", "fire emblem", "original", "sfw"],
 			hidden: false
 		},
 		{
@@ -585,7 +585,7 @@ var data = {
 			art_url: "https://bsky.app/profile/wwitchii.bsky.social/post/3mb34odyfts2b",
 			desc: "Sothe and Astrid in a modern setting. Astrid looking flustered around Sothe is honestly cute and I love it.",
 			date_str: "December 28th 2025",
-			tags: ["astrid, sothe, fire emblem, sfw"],
+			tags: ["astrid", "sothe", "fire emblem", "sfw"],
 			hidden: false
 		},
 		{
@@ -597,7 +597,7 @@ var data = {
 			art_url: "https://vgen.co/s117renner/portfolio/showcase/loneshadowstar-s-oc/a3bd146b-93c6-4cfd-9ca6-42db4364754e",
 			desc: "An action shot piece with Estelle. Dunno what you did to make her throw a dagger at you, though.",
 			date_str: "December 29th 2025",
-			tags: ["estelle, fire emblem, sfw"],
+			tags: ["estelle", "fire emblem", "original", "sfw"],
 			hidden: false
 		},
 		{
@@ -609,7 +609,7 @@ var data = {
 			art_url: "https://x.com/ebinkuu18/status/2009045574906265742",
 			desc: "First Comm of 2026, featuring the glorious return of Ebinku! Lex and Ayra were always one of my favorite Genealogy pairings, and I had wanted to commission them for a long time. As usual, Ebinku really cooked here.",
 			date_str: "January 7th 2026",
-			tags: ["other characters, fire emblem, nsfw"],
+			tags: ["other characters", "fire emblem", "nsfw"],
 			hidden: false
 		},
 		{
@@ -633,7 +633,7 @@ var data = {
 			art_url: null,
 			desc: "Some last minute Choose your Legends 2026 propaganda for Astrid, completed on the last day of the event. I actually almost used Makalov in Estelle's place, but changed my mind because fuck Makalov. Maji had also included separated versions for each character, as well as blank versions, so I added those.",
 			date_str: "January 28th 2026",
-			tags: ["astrid, sothe, marcia, estelle, other characters, fire emblem, sfw"],
+			tags: ["astrid", "sothe", "marcia", "estelle", "other characters", "fire emblem", "sfw"],
 			hidden: false
 		},
 			{
@@ -645,7 +645,7 @@ var data = {
 			art_url: "https://x.com/sierra117renner/status/2017004220294320232",
 			desc: "Another planned holiday piece that unfortunately did not make it on time. Though part of this was because Sierra had a large workload at the time I requested it, so I won't hold it against her.",
 			date_str: "January 29th 2026",
-			tags: ["astrid, sothe, fire emblem, sfw"],
+			tags: ["astrid", "sothe", "fire emblem", "sfw"],
 			hidden: false
 		},
 		{
@@ -657,7 +657,7 @@ var data = {
 			art_url: "https://vgen.co/Symoca/portfolio/showcase/akira-and-kyouka-doodle/c96c92ec-6585-4b1d-b20c-4cb2ecba9ae6",
 			desc: "Two characters from the visual novel \"Boku to Gonee to Umi no Year!\", or \"Me, 5 sisters, and the Year of The Sea!\" in English. The game itself is kinda mid story-wise, but it makes up for that with great 2000s-era artwork by Shunsaku Tomose, a name you may or may not be familiar with.",
 			date_str: "February 11th 2026",
-			tags: ["other characters, visual novels, nsfw"],
+			tags: ["other characters", "visual novels", "nsfw"],
 			hidden: false
 		},
 		{
@@ -669,7 +669,7 @@ var data = {
 			art_url: null,
 			desc: "Hey, look! A holiday-specific comm I remembered to request WITHOUT waiting until the last second! Jokes aside, though, I love the way this turned out. Astrid's > < expression needs no words on how cute it is, and I'm also proud of the casual outfits I came up with for them (even though all I did was have Lazzle remove Sothe's vest and weapons and Astrid's armor and cape lmao.)",
 			date_str: "February 14th 2026",
-			tags: ["astrid, sothe, fire emblem, sfw"],
+			tags: ["astrid", "sothe", "fire emblem", "sfw"],
 			hidden: false
 		},
 		{
@@ -681,7 +681,7 @@ var data = {
 			art_url: "https://x.com/RedKite333/status/2025016046013612335",
 			desc: "A fine addition to this artist's \"Couples Lying Together\" collection!",
 			date_str: "February 20th 2026",
-			tags: ["astrid, sothe, fire emblem, nsfw"],
+			tags: ["astrid", "sothe", "fire emblem", "nsfw"],
 			hidden: false
 		},
 		{
@@ -693,7 +693,7 @@ var data = {
 			art_url: null,
 			desc: "I started shipping Athena and Malice with Kris after seeing their supports in New Mystery. Since they're both Myrmidons, I thought \"Why not have a threesome between them?\"",
 			date_str: "March 5th 2026",
-			tags: ["other characters, fire emblem, nsfw"],
+			tags: ["other characters", "fire emblem", "nsfw"],
 			hidden: false
 		},
 		{
@@ -705,7 +705,7 @@ var data = {
 			art_url: "https://skeb.jp/@dha_l/works/275",
 			desc: "Pachikar returns with a vengeance! Also managed to snag a never-before-seen ejaculation alt that was hidden in the PSD file.",
 			date_str: "March 7th 2026",
-			tags: ["pachikar, alicesoft, visual novels, nsfw"],
+			tags: ["pachikar", "alicesoft", "visual novels", "nsfw"],
 			hidden: false
 		},
 		{
@@ -717,7 +717,7 @@ var data = {
 			art_url: "https://bsky.app/profile/tamafry.com/post/3mgy2boccal2b",
 			desc: "This is an idea I came up with during a conversation between me and Tama during my last commission with them. I knew from Astrid's supports with Makalov that she didn't mind giving away the pendant her Grandmother gave her, so I decided to request a more wholesome version of that with Sothe. This takes place after the endgame of Radiant Dawn, so Sothe and Astrid are in their Third Tier Class outfits.",
 			date_str: "March 13th 2026",
-			tags: ["astrid, sothe, fire emblem, sfw"],
+			tags: ["astrid", "sothe", "fire emblem", "sfw"],
 			hidden: false
 		},
 		{
@@ -729,7 +729,7 @@ var data = {
 			art_url: null,
 			desc: "An artist I commissioned on ko-fi after being recommended to by another commissioner. I'm glad I listened to them, because this is some good shit here.",
 			date_str: "March 26th 2026",
-			tags: ["sothe, astrid, fire emblem, sfw"],
+			tags: ["astrid", "sothe", "fire emblem", "sfw"],
 			hidden: false
 		},
 		{
@@ -753,7 +753,7 @@ var data = {
 			art_url: null,
 			desc: "Man, the passion in this image is palpable.",
 			date_str: "March 30th 2026",
-			tags: ["astrid, sothe, fire emblem, nsfw"],
+			tags: ["astrid", "sothe", "fire emblem", "nsfw"],
 			hidden: false
 		},
 /* Template */
