@@ -507,7 +507,7 @@ var data = {
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/26f78f31e2bc.png"],
-			thumbnail: "https://cdn.imgchest.com/files/18c282d7e53e.png",
+			thumbnail: "https://cdn.imgchest.com/files/31b3a97fb098.png",
 			title: "Sothstrid - Pixel Art",
 			artist: "Evomanaphy",
 			artist_url: "https://bsky.app/profile/evomanaphy.bsky.social",
