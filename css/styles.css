@@ -90,10 +90,10 @@ body {
 	max-width: 95%;
 }
 .modal-content {
-	background-color: #485276;
+	background-color: #4d7648;
 }
 .modal-header {
-	border-bottom: 1px solid #797E96;
+	border-bottom: 1px solid #7b9679;
 }
 .modal-footer {
 	display: block;
@@ -116,10 +116,10 @@ body {
 	display: none;
 }
 a {
-	color: #b3bdff;
+	color: #c5ffb3;
 }
 a:hover, a:active {
-	color: #959ccf;
+	color: #95cf97;
 }
 
 .gallery-buttons-container {
@@ -143,7 +143,7 @@ a:hover, a:active {
 }
 
 .checkbox-menu li.active label {
-	background-color: #cbcbff;
+	background-color: #ffcbf7;
 	font-weight:bold;
 }
 
@@ -154,7 +154,7 @@ a:hover, a:active {
 
 .checkbox-menu li.active label:hover,
 .checkbox-menu li.active label:focus {
-	background-color: #b8b8ff;
+	background-color: #ffb8f9;
 }
 
 #search-bar {
@@ -248,7 +248,7 @@ a:hover, a:active {
 	background-color: #ad50ad;
 }
 .accordion-button {
-	background-color: #666a80;
+	background-color: #756680;
 	color: white;
 }
 .accordion-button:not(.collapsed) {
@@ -261,20 +261,20 @@ a:hover, a:active {
 	background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23000000'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");	
 }
 .accordion-body {
-	background-color: #666a80;
+	background-color: #7c6680;
 	color: white;
 }
 .series-link {
 	text-decoration: underline;
 	cursor: pointer;
-	color: #b3bdff;
+	color: #e3b3ff;
 }
 .series-link:hover, .series-link:active {
-	color: #959ccf;
+	color: #bc95cf;
 }
 
 .nsfw {
-	border: 2px dashed #888ca2;
+	border: 2px dashed #88a288;
 }
 
 /* *********************************************** */
@@ -282,7 +282,7 @@ a:hover, a:active {
 @media (max-width: 767px) {
 	/* Small devices (tablets, 768px and less) */
 	body {
-		background-color: #485276;
+		background-color: #764876;
 	}
 	#gallery {
 		-webkit-column-count: 2; /* Chrome, Safari, Opera */
@@ -290,7 +290,7 @@ a:hover, a:active {
 		column-count: 2;
 	}
 	#gallery-container {
-		border-top: 1px solid #797E96;
+		border-top: 1px solid #967991;
 	}
 	#sidebar {
 		border-bottom-left-radius: 0;
@@ -417,7 +417,7 @@ a:hover, a:active {
 		column-count: 3;
 	}
 	.title-underscore-container {
-		border-bottom: 1px solid #797E96;
+		border-bottom: 1px solid #8e7996;
 		width: 90%;
 		margin-left: 5%;
 	}
