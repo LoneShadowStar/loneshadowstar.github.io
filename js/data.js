@@ -781,6 +781,18 @@ var data = {
 			tags: ["atlas", "sonya", "fire emblem", "sfw"],
 			hidden: false
 		},
+		{
+			src: ["https://cdn.imgchest.com/files/849e47099860.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ce0aa54dc102.png",
+			title: "Sothstrid - Prone Bone",
+			artist: "Kalycoris",
+			artist_url: "https://bsky.app/profile/kkalycoris.bsky.social",
+			art_url: "https://bsky.app/profile/kkalycoris.bsky.social/post/3mip4lokwek2k",
+			desc: "A passionate prone-bone commission that I requested on VGen. The artist actually sent me multiple variants to choose from during the process, which was sometimes pretty difficult since they all looked good, lol. I do ultimately like the final result, though. Something about Astrid clenching her teeth while Sothe penetrates her just feels right.",
+			date_str: "April 4th, 2026",
+			tags: ["astrid", "sothe", "fire emblem", "nsfw"],
+			hidden: false
+		},
 /* Template */
 		{
 			src: [""],
