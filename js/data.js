@@ -22,7 +22,7 @@ var data = {
 			art_url: null,
 			desc: "The first image I had ever commissioned, although this was more of a Patreon request. Definitely interested in commissoning more Edeleth someday, though.",
 			date_str: "May 2022",
-			tags: ["other character", "fire emblem", "nsfw"],
+			tags: ["other characters", "fire emblem", "nsfw"],
 			hidden: false
 		},
 		{
@@ -62,15 +62,15 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://cdn.imgchest.com/files/eb0f36820154.png"],
+			src: ["https://cdn.imgchest.com/files/a06548b3b34e.JPG", "https://cdn.imgchest.com/files/eb0f36820154.png"],
 			thumbnail: "https://cdn.imgchest.com/files/9d05d86c7ce0.png",
 			title: "Arthur x Fee",
 			artist: "Ebinku",
 			artist_url: "https://www.pixiv.net/users/ebinkuu18",
 			art_url: "https://www.pixiv.net/artworks/111756077",
-			desc: "First comm from Ebinku.",
+			desc: "First comm from Ebinku. This was inspired by the fact that Arthur (the Genealogy one) was added to Fire Emblem Heroes over a year BEFORE Fee was added, and this was them reuniting.",
 			date_str: "October 2023",
-			tags: ["other character", "fire emblem", "nsfw"],
+			tags: ["other characters", "fire emblem", "nsfw"],
 			hidden: false
 		},
 		{
@@ -110,7 +110,7 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://cdn.imgchest.com/files/6feb58f2b275.PNG"],
+			src: ["https://cdn.imgchest.com/files/2637662e464f.JPG", "https://cdn.imgchest.com/files/6feb58f2b275.PNG"],
 			thumbnail: "https://cdn.imgchest.com/files/07aa7e4f3333.png",
 			title: "Let's Have Some Fun",
 			artist: "Ebinku",
