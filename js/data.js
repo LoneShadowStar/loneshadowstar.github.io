@@ -793,6 +793,30 @@ var data = {
 			tags: ["astrid", "sothe", "fire emblem", "nsfw"],
 			hidden: false
 		},
+		{
+			src: ["https://cdn.imgchest.com/files/214a52950c69.png"],
+			thumbnail: "https://cdn.imgchest.com/files/5f720824373e.png",
+			title: "Sothstrid - Alone Time",
+			artist: "MangoSketches",
+			artist_url: "https://bsky.app/profile/mgosketches.bsky.social",
+			art_url: null,
+			desc: "A rare MangoSketches NSFW comm that I requested on April Fool's after she advertised it on her BlueSky. I had always wanted to commission her ever since I missed out on the last time she opened, and goddamn, did she not disappoint.",
+			date_str: "April 15th, 2026",
+			tags: ["astrid", "sothe", "fire emblem", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/f420b1cc0065.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/06229e9c9164.png",
+			title: "Thief Sothe and Lady Astrid of Damiel",
+			artist: "Gzei",
+			artist_url: "https://bsky.app/profile/gzeidraws.bsky.social",
+			art_url: null,
+			desc: "The culmination of months of brainstorming ideas for Sothe's thief alt in Fire Emblem Heroes. The general idea here is that Astrid never ran from her family in this AU, while Sothe is a master thief that managed to charm her despite their social differences, and the two of them go off on adventures together. I let Gzei have full reign in making this and... My god, it is absolutely PERFECT.",
+			date_str: "April 15th, 2026",
+			tags: ["astrid", "sothe", "fire emblem", "sfw"],
+			hidden: false
+		},
 /* Template */
 		{
 			src: [""],
