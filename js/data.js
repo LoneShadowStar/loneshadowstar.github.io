@@ -817,6 +817,18 @@ var data = {
 			tags: ["astrid", "sothe", "fire emblem", "sfw"],
 			hidden: false
 		},
+		{
+			src: ["https://cdn.imgchest.com/files/91c479c29b40.png", "https://cdn.imgchest.com/files/46ca71cee261.png"],
+			thumbnail: "https://cdn.imgchest.com/files/a0a149982d35.png",
+			title: "Sothstrid - Embarassed Sothe",
+			artist: "AstralBlooming",
+			artist_url: "https://bsky.app/profile/astralblooming.bsky.social",
+			art_url: "https://vgen.co/AstralBlooming/portfolio/showcase/loneshadowstar-s-half-body/3c00230c-9d91-404a-a3b0-0a874904aca1",
+			desc: "An image I had requested on Vgen over a year ago that I did not get back until just now. While the wait was unnecessarily long, I do like the final result here.",
+			date_str: "April 25th, 2026",
+			tags: ["astrid", "sothe", "fire emblem", "sfw"],
+			hidden: false
+		},
 /* Template */
 		{
 			src: [""],
