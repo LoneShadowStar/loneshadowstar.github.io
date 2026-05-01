@@ -703,7 +703,7 @@ var data = {
 			title: "Male Kris, Athena, and Malice Threesome",
 			artist: "Pomelomelon",
 			artist_url: "https://bsky.app/profile/pomelomelon.bsky.social",
-			art_url: null,
+			art_url: "https://bsky.app/profile/pomelomelon.bsky.social/post/3mksltci7v22z",
 			desc: "I started shipping Athena and Malice with Kris after seeing their supports in New Mystery. Since they're both Myrmidons, I thought \"Why not have a threesome between them?\"",
 			date_str: "March 5th, 2026",
 			tags: ["other characters", "fire emblem", "nsfw"],
