@@ -829,6 +829,18 @@ var data = {
 			tags: ["astrid", "sothe", "fire emblem", "sfw"],
 			hidden: false
 		},
+		{
+			src: ["https://cdn.imgchest.com/files/196d6b0606f8.png"],
+			thumbnail: "https://cdn.imgchest.com/files/2c5d6883fb8a.png",
+			title: "Catherine and Shez Part 2",
+			artist: "Sethkiel",
+			artist_url: "https://x.com/SethsLilSecret",
+			art_url: null,
+			desc: "A follow-up to my previous Catherine x Shez piece, in which the roles are reversed: Here, Catherine is the one in the dominant position while Shez is at her mercy.",
+			date_str: "May 4th, 2026",
+			tags: ["catherine", "male_shez", "fire emblem", "nsfw"],
+			hidden: false
+		},
 /* Template */
 		{
 			src: [""],
