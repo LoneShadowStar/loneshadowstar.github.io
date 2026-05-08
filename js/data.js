@@ -835,10 +835,22 @@ var data = {
 			title: "Catherine and Shez Part 2",
 			artist: "Sethkiel",
 			artist_url: "https://x.com/SethsLilSecret",
-			art_url: null,
+			art_url: "https://x.com/SethsLilSecret/status/2052203595685302322",
 			desc: "A follow-up to my previous Catherine x Shez piece, in which the roles are reversed: Here, Catherine is the one in the dominant position while Shez is at her mercy.",
 			date_str: "May 4th, 2026",
 			tags: ["catherine", "male_shez", "fire emblem", "nsfw"],
+			hidden: false
+		},
+			{
+			src: ["https://cdn.imgchest.com/files/942695469047.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/e238250b42e4.png",
+			title: "Estelle Bust Shot",
+			artist: "Gzei",
+			artist_url: "https://bsky.app/profile/gzeidraws.bsky.social",
+			art_url: null,
+			desc: "A surprise bust shot of Estelle that Gzei had offered on his VGen for May 2026, one month before his price increase in June. I decided to go with Estelle since it had been a while since I commissioned something with her.",
+			date_str: "May 8th, 2026",
+			tags: ["estelle", "original", "fire emblem", "sfw"],
 			hidden: false
 		},
 /* Template */
