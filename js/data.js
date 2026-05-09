@@ -847,7 +847,7 @@ var data = {
 			title: "Estelle Bust Shot",
 			artist: "Gzei",
 			artist_url: "https://bsky.app/profile/gzeidraws.bsky.social",
-			art_url: null,
+			art_url: "https://bsky.app/profile/gzeidraws.bsky.social/post/3mlf2pdwxq22q",
 			desc: "A surprise bust shot of Estelle that Gzei had offered on his VGen for May 2026, one month before his price increase in June. I decided to go with Estelle since it had been a while since I commissioned something with her.",
 			date_str: "May 8th, 2026",
 			tags: ["estelle", "original", "fire emblem", "sfw"],
