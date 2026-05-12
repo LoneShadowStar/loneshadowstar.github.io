@@ -853,6 +853,18 @@ var data = {
 			tags: ["estelle", "original", "fire emblem", "sfw"],
 			hidden: false
 		},
+		{
+			src: ["https://cdn.imgchest.com/files/2a4abe44d3ca.png"],
+			thumbnail: "https://cdn.imgchest.com/files/70b469c84887.png",
+			title: "Astrid Booba (and Sothe too)",
+			artist: "Evomanaphy",
+			artist_url: "https://bsky.app/profile/evomanaphy.bsky.social",
+			art_url: null,
+			desc: "A sketch commission I got from Evomanaphy after she finally opened them. This was an idea that had actually sat in my backlog for a while, and I really love how it turned out. I especially love chibi Sothe's reaction, lol.",
+			date_str: "May 11th, 2026",
+			tags: ["astrid", "sothe", "fire emblem", "nsfw"],
+			hidden: false
+		},
 /* Template */
 		{
 			src: [""],
