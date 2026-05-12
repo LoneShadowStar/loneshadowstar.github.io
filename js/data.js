@@ -32,7 +32,7 @@ var data = {
 			artist: "Pomelomelon",
 			artist_url: "https://bsky.app/profile/pomelomelon.bsky.social",
 			art_url: null,
-			desc: "The first image I had ever commissioned, the first commission of Sothe and Astrid, and the first commission with Pomelomelon. ...That's a lot of firsts.",
+			desc: "The ACTUAL first image I had ever commissioned, the first commission of Sothe and Astrid, and the first commission with Pomelomelon. ...That's a lot of firsts.",
 			date_str: "March 2023",
 			tags: ["sothe", "astrid", "fire emblem", "nsfw"],
 			hidden: false
@@ -80,7 +80,7 @@ var data = {
 			artist: "Pomelomelon",
 			artist_url: "https://bsky.app/profile/pomelomelon.bsky.social",
 			art_url: null,
-			desc: null,
+			desc: "Female Shez eagerly fingering Shamir, much to her flustered-ness (is that even a word?). Shamir is one of three characters I ship Shez (both genders) with, alongside Lysithea and Catherine. Although for Shamir I generally prefer to use Female Shez, as shown here.",
 			date_str: "November 2023",
 			tags: ["female_shez", "shamir", "fire emblem", "nsfw"],
 			hidden: false
@@ -200,7 +200,7 @@ var data = {
 			artist: "Sethkiel",
 			artist_url: "https://x.com/SethsLilSecret",
 			art_url: "https://x.com/SethsLilSecret/status/1881098641139810523",
-			desc: null,
+			desc: "This was basically an idea that was inspired by the outings feature of Three Hopes. Just two people, alone in the wilderness... I think you know where this is going, lol.",
 			date_str: "January 17th, 2025",
 			tags: ["female_shez", "lysithea", "fire emblem", "nsfw"],
 			hidden: false
@@ -284,7 +284,7 @@ var data = {
 			artist: "PinPin Ninja",
 			artist_url: "https://www.pixiv.net/en/users/98799200",
 			art_url: null,
-			desc: "This was one of two pieces where I was being experimental with an Onee-Shota dynamic, expressing ideas that I felt could not be expressed anywhere else. I actually regret requesting these and don't like sharing them very much, but I'll still include them here for completion's sake.",
+			desc: "This was one of two pieces where I was being experimental with an Onee-Shota dynamic, expressing ideas that I felt could not be expressed anywhere else. I actually regret requesting these since they ended up looking TOO shota-esque for my liking, and don't like sharing them very much because of that. I'll still include them here for completion's sake, but I've decided to keep them private for now.",
 			date_str: "May 29th, 2025",
 			tags: ["other characters", "fire emblem", "nsfw"],
 			hidden: true
@@ -332,7 +332,7 @@ var data = {
 			artist: "Symoca",
 			artist_url: "https://x.com/symocosmos",
 			art_url: null,
-			desc: null,
+			desc: "A sort of experiment showing Astrid in a dominant position over Sothe. I have a personal headcanon that Astrid is actually very dominant when it comes to sex (as someone who wants to live life on her own terms) and Sothe is very submissive (as someone very protective of those he cares about). This is basically Astrid trying out a dominant position for the first time, hence why she looks more cute than sexy.",
 			date_str: "June 27th, 2025",
 			tags: ["astrid", "sothe", "fire emblem", "nsfw"],
 			hidden: false
@@ -404,7 +404,7 @@ var data = {
 			artist: "Misokatsuhaumai",
 			artist_url: "https://bsky.app/profile/misokatsuhaumai.bsky.social",
 			art_url: null,
-			desc: "The very first image of Estelle, Sothe and Astrid's daughter, after existing as a small sketch inside my idea notebook. I remember Mason being VERY excited to draw her when I first sent the request to them, and I could tell throughout that they really enjoyed designing her. They even included an alternate color for Estelle's vest that until now I have never shared to anyone.",
+			desc: "The very first image of Estelle, Sothe and Astrid's daughter, after existing as a small sketch inside my idea notebook. I remember Mason being VERY excited to draw her when I first sent the request to them, and I could tell throughout that they really enjoyed designing her (they even told me explicitly how much fun they were having, lol). They even included an alternate color for Estelle's vest that until now I have never shared to anyone.",
 			date_str: "September 13th, 2025",
 			tags: ["estelle", "fire emblem", "original", "sfw"],
 			hidden: false
@@ -464,7 +464,7 @@ var data = {
 			artist: "Oyatsu_0",
 			artist_url: "https://www.pixiv.net/en/users/71112175",
 			art_url: "https://www.pixiv.net/en/artworks/137441593",
-			desc: "Another experimental shotacon piece that, unfortunately, I regret requesting. Again, I don't like sharing this one because of that, but I'll still include it for completion's sake.",
+			desc: "Another experimental onee-shota piece that, unfortunately, I regret requesting due to ending up looking more shota-esque than I like. Again, I don't like sharing this one because of that, but I'll still include it for completion's sake.",
 			date_str: "October 22nd, 2025",
 			tags: ["other characters", "fire emblem", "nsfw"],
 			hidden: true
@@ -644,7 +644,7 @@ var data = {
 			artist: "Majibomber",
 			artist_url: "https://bsky.app/profile/majibomber.bsky.social",
 			art_url: null,
-			desc: "Some last minute Choose your Legends 2026 propaganda for Astrid, completed on the last day of the event. I actually almost used Makalov in Estelle's place, but changed my mind because fuck Makalov. Maji had also included separated versions for each character, as well as blank versions, so I added those.",
+			desc: "Some last minute Choose your Legends 2026 propaganda for Astrid, completed on the last day of the event. I actually almost used Makalov in Estelle's place, but changed my mind because fuck Makalov. Maji had also included separated versions for each character, as well as blank versions, so I added those. The Sothe and Estelle ones in particular have a LOT of meme potential, imo.",
 			date_str: "January 28th, 2026",
 			tags: ["astrid", "sothe", "marcia", "estelle", "other characters", "fire emblem", "sfw"],
 			hidden: false
