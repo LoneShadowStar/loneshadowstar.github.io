@@ -859,10 +859,22 @@ var data = {
 			title: "Astrid Booba (and Sothe too)",
 			artist: "Evomanaphy",
 			artist_url: "https://bsky.app/profile/evomanaphy.bsky.social",
-			art_url: null,
+			art_url: "https://bsky.app/profile/evomanaphy.bsky.social/post/3mlszjpfx5k2u",
 			desc: "A sketch commission I got from Evomanaphy after she finally opened them. This was an idea that had actually sat in my backlog for a while, and I really love how it turned out. I especially love chibi Sothe's reaction, lol.",
 			date_str: "May 11th, 2026",
 			tags: ["astrid", "sothe", "fire emblem", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/bc72cee98abb.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/85199c97fbc9.png",
+			title: "Sonya Torturing Atlas",
+			artist: "Ebinku",
+			artist_url: "https://x.com/ebinkuu18",
+			art_url: "https://x.com/ebinkuu18/status/2056551401375912163",
+			desc: "A torturing handjob type piece with Sonya and Atlas. This is probably my first commission to have BDSM in it, AND the first overall to have a non-vanilla theme.",
+			date_str: "May 19th, 2026",
+			tags: ["atlas", "sonya", "fire emblem", "nsfw"],
 			hidden: false
 		},
 /* Template */
