@@ -841,7 +841,7 @@ var data = {
 			tags: ["catherine", "male_shez", "fire emblem", "nsfw"],
 			hidden: false
 		},
-			{
+		{
 			src: ["https://cdn.imgchest.com/files/942695469047.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/e238250b42e4.png",
 			title: "Estelle Bust Shot",
@@ -875,6 +875,18 @@ var data = {
 			desc: "A torturing handjob type piece with Sonya and Atlas. This is probably my first commission to have BDSM in it, AND the first overall to have a non-vanilla theme.",
 			date_str: "May 19th, 2026",
 			tags: ["atlas", "sonya", "fire emblem", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/381527e18866.png", "https://cdn.imgchest.com/files/51058ba496b1.png", "https://cdn.imgchest.com/files/9cea16f0cb04.png", "https://cdn.imgchest.com/files/caea6c85d2f1.png"],
+			thumbnail: "https://cdn.imgchest.com/files/f52d5d5953dd.png",
+			title: "Alexa and Melissa",
+			artist: "Majibomber",
+			artist_url: "https://bsky.app/profile/majibomber.bsky.social",
+			art_url: null,
+			desc: "A pair of OCs from my Tomodachi Life: Living the Dream island that are also a lesbian couple. Alexa McArthur (left) is a shy, quiet girl with glasses, while Melissa Mona (right) is an energetic tomboy.",
+			date_str: "May 20th, 2026",
+			tags: ["alexa mcarthur", "melissa mona", "original", "tomodachi life", "sfw"],
 			hidden: false
 		},
 /* Template */
