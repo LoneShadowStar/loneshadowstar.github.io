@@ -895,10 +895,22 @@ var data = {
 			title: "Petra at The Beach",
 			artist: "Munedraws",
 			artist_url: "https://bsky.app/profile/munedraws.bsky.social",
-			art_url: null,
+			art_url: "https://bsky.app/profile/munedraws.bsky.social/post/3mmmihejkz22o",
 			desc: "A gift comm for a Secret Gift Exchange I had participated in. The person I was assigned to liked Petra, and specifically wanted SUMMER Petra, so I knew that Mune was the perfect choice to go with since they're also a huge fan of Petra.",
 			date_str: "May 21st, 2026",
 			tags: ["other characters", "fire emblem", "gift comms (sent)", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/bc6ded142a4f.png"],
+			thumbnail: "https://cdn.imgchest.com/files/903cfc2063a7.png",
+			title: "Sonya and Atlas Enjoying the Night",
+			artist: "Rani-Ki",
+			artist_url: "https://bsky.app/profile/rani-ki.bsky.social",
+			art_url: null,
+			desc: "More Sonya and Atlas! I chose Rani to draw this piece because I knew she could draw... Beefy men pretty well, and I knew Atlas would be perfect in her artstyle. I was not disappointed.",
+			date_str: "May 25th, 2026",
+			tags: ["atlas", "sonya", "fire emblem", "nsfw"],
 			hidden: false
 		},
 /* Template */
