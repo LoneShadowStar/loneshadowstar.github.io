@@ -913,6 +913,30 @@ var data = {
 			tags: ["atlas", "sonya", "fire emblem", "nsfw"],
 			hidden: false
 		},
+		{
+			src: ["https://cdn.imgchest.com/files/61af1df12632.png"],
+			thumbnail: "https://cdn.imgchest.com/files/9eec34a3ff65.png",
+			title: "Adoration",
+			artist: "DeebyFeeby",
+			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
+			art_url: "https://bsky.app/profile/deebyfeeby.bsky.social/post/3mmwrffufus2o",
+			desc: "A drawn recreation of the sculpture Adoration by Stephen Sinding, specifically at a low-angle view to really make Astrid front and center. Also because I thought it looked hotter for Astrid to be looking down at Sothe as he worships her, lol.",
+			date_str: "May 28th, 2026",
+			tags: ["astrid", "sothe", "fire emblem", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/72ef8b20df18.png"],
+			thumbnail: "https://cdn.imgchest.com/files/1dae5148f319.png",
+			title: "Astrid Playing with Sothe's Nipples",
+			artist: "MangoSketches",
+			artist_url: "https://bsky.app/profile/mgosketches.bsky.social",
+			art_url: null,
+			desc: "A silly idea I came up with after seeing another image with a similar pose. I really love how smug Astrid looks here. She knows EXACTLY what she's doing and she's loving it.",
+			date_str: "May 29th, 2026",
+			tags: ["astrid", "sothe", "fire emblem", "sfw"],
+			hidden: false
+		},
 /* Template */
 		{
 			src: [""],
