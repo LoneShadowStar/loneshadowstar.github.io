@@ -937,6 +937,18 @@ var data = {
 			tags: ["astrid", "sothe", "fire emblem", "sfw"],
 			hidden: false
 		},
+		{
+			src: ["https://cdn.imgchest.com/files/e52fdb695dcf.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4e885bea1865.png",
+			title: "Sonya Leaking Atlas",
+			artist: "Sinccubi",
+			artist_url: "https://bsky.app/profile/sinccubi.bsky.social",
+			art_url: null,
+			desc: "A YCH commission from Sinccubi that I felt captured my imagined dynamic between Sonya and Atlas, specifically the idea that Sonya tends to dominate Atlas during sex. Also, that lip bite Sonya's making is the best part imo.",
+			date_str: "June 6th, 2026",
+			tags: ["atlas", "sonya", "fire emblem", "nsfw"],
+			hidden: false
+		},
 /* Template */
 		{
 			src: [""],
