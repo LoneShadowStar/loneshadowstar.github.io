@@ -949,6 +949,18 @@ var data = {
 			tags: ["atlas", "sonya", "fire emblem", "nsfw"],
 			hidden: false
 		},
+		{
+			src: ["https://cdn.imgchest.com/files/7f7c71f82548.png"],
+			thumbnail: "https://cdn.imgchest.com/files/e8f768eddcee.png",
+			title: "Mikaiah Mona",
+			artist: "Evomanaphy",
+			artist_url: "https://bsky.app/profile/evomanaphy.bsky.social",
+			art_url: null,
+			desc: "Another OC from my Tomodachi Life: Living the Dream island and the oldest of the Mona sisters. The best way to describe her is that she is suave, elegant, and motherly, especially towards her younger sisters.",
+			date_str: "June 8th, 2026",
+			tags: ["mikaiah mona", "original", "tomodachi life", "sfw"],
+			hidden: false
+		},
 /* Template */
 		{
 			src: [""],
