@@ -961,6 +961,30 @@ var data = {
 			tags: ["mikaiah mona", "original", "tomodachi life", "sfw"],
 			hidden: false
 		},
+		{
+			src: ["https://cdn.imgchest.com/files/cd480881d4d6.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/60ab53a2a0f9.png",
+			title: "Sothstrid - Coffee Date",
+			artist: "Gzei",
+			artist_url: "https://bsky.app/profile/gzeidraws.bsky.social",
+			art_url: "https://bsky.app/profile/gzeidraws.bsky.social/post/3mntzdsxoi22j",
+			desc: "A modern AU featuring Sothe and Astrid on a date at a coffee shop. This was an idea that sat in my backlong for a LONG time before I finally got around to requesting it. Also, if you look at the coffee cup, it says "Callil's" on it.",
+			date_str: "June 9th, 2026",
+			tags: ["astrid", "sothe", "fire emblem", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/889aef75284a.png", "https://cdn.imgchest.com/files/2ac5cd0b8534.png"],
+			thumbnail: "https://cdn.imgchest.com/files/68d287142693.png",
+			title: "Sothstrid - S Support",
+			artist: "Autumn Saccura",
+			artist_url: "https://bsky.app/profile/autumnsacura.bsky.social",
+			art_url: null,
+			desc: "An image of Sothe and Astrid in the artist's "S Support" series. I forgot to send Astrid's references for her Radiant Dawn design because I was rushing when putting in the request, so the artist used her Path of Radiance design here. I didn't notice this until it was finished, though, so I just decided to keep it as is.",
+			date_str: "June 11th, 2026",
+			tags: ["astrid", "sothe", "fire emblem", "sfw"],
+			hidden: false
+		},
 /* Template */
 		{
 			src: [""],
