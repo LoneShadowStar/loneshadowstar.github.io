@@ -980,7 +980,7 @@ var data = {
 			artist: "Autumn Saccura",
 			artist_url: "https://bsky.app/profile/autumnsacura.bsky.social",
 			art_url: null,
-			desc: "An image of Sothe and Astrid in the artist's "S Support" series. I forgot to send Astrid's references for her Radiant Dawn design because I was rushing when putting in the request, so the artist used her Path of Radiance design here. I didn't notice this until it was finished, though, so I just decided to keep it as is.",
+			desc: "An image of Sothe and Astrid in the artist's S Support series. I forgot to send Astrid's references for her Radiant Dawn design because I was rushing when putting in the request, so the artist used her Path of Radiance design here. I didn't notice this until it was finished, though, so I just decided to keep it as is.",
 			date_str: "June 11th, 2026",
 			tags: ["astrid", "sothe", "fire emblem", "sfw"],
 			hidden: false
