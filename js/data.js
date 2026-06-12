@@ -968,7 +968,7 @@ var data = {
 			artist: "Gzei",
 			artist_url: "https://bsky.app/profile/gzeidraws.bsky.social",
 			art_url: "https://bsky.app/profile/gzeidraws.bsky.social/post/3mntzdsxoi22j",
-			desc: "A modern AU featuring Sothe and Astrid on a date at a coffee shop. This was an idea that sat in my backlong for a LONG time before I finally got around to requesting it. Also, if you look at the coffee cup, it says "Callil's" on it.",
+			desc: "A modern AU featuring Sothe and Astrid on a date at a coffee shop. This was an idea that sat in my backlong for a LONG time before I finally got around to requesting it. Also, if you look at the coffee cup, it says Callil's on it.",
 			date_str: "June 9th, 2026",
 			tags: ["astrid", "sothe", "fire emblem", "sfw"],
 			hidden: false
