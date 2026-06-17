@@ -190,7 +190,7 @@ var data = {
 			art_url: null,
 			desc: "More Girls Gift characters! From left to right, they are Pachikar, Hasaera Rabi, and Labelcase. They're only minor bosses in the game they appear in, but they have enough personality to stick in my mind despite this, especially Pachikar.",
 			date_str: "January 13th, 2025",
-			tags: ["pachikar", "other characters", "alicesoft", "visual novels", "nsfw"],
+			tags: ["pachikar", "hasaera rabi", "other characters", "alicesoft", "visual novels", "nsfw"],
 			hidden: false
 		},
 		{
@@ -983,6 +983,18 @@ var data = {
 			desc: "An image of Sothe and Astrid in the artist's S Support series. I forgot to send Astrid's references for her Radiant Dawn design because I was rushing when putting in the request, so the artist used her Path of Radiance design here. I didn't notice this until it was finished, though, so I just decided to keep it as is.",
 			date_str: "June 11th, 2026",
 			tags: ["astrid", "sothe", "fire emblem", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/fedfc7209bfc.png", "https://cdn.imgchest.com/files/5e9d295eefc5.png"],
+			thumbnail: "https://cdn.imgchest.com/files/98c0b1552748.png",
+			title: "Hasaera Rabi Seggs",
+			artist: "DHA",
+			artist_url: "https://www.pixiv.net/en/users/41750",
+			art_url: "https://skeb.jp/@dha_l/works/289",
+			desc: "A passionate scene with the angel Hasaera Rabi from Toushin Toshi Girls Gift, much like my earlier one with Pachikar. There's also a cumming alt that was hidden in the PSD file.",
+			date_str: "June 13, 2026",
+			tags: ["hasaera rabi", "alicesoft", "visual novels", "nsfw"],
 			hidden: false
 		},
 /* Template */
