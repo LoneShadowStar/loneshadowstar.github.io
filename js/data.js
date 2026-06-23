@@ -979,7 +979,7 @@ var data = {
 			title: "Sothstrid - S Support",
 			artist: "Autumn Saccura",
 			artist_url: "https://bsky.app/profile/autumnsacura.bsky.social",
-			art_url: null,
+			art_url: "https://bsky.app/profile/autumnsacura.bsky.social/post/3monqpaxpic2r",
 			desc: "An image of Sothe and Astrid in the artist's S Support series. I forgot to send Astrid's references for her Radiant Dawn design because I was rushing when putting in the request, so the artist used her Path of Radiance design here. I didn't notice this until it was finished, though, so I just decided to keep it as is.",
 			date_str: "June 11th, 2026",
 			tags: ["astrid", "sothe", "fire emblem", "sfw"],
@@ -995,6 +995,30 @@ var data = {
 			desc: "A passionate scene with the angel Hasaera Rabi from Toushin Toshi Girls Gift, much like my earlier one with Pachikar. There's also a cumming alt that was hidden in the PSD file.",
 			date_str: "June 13, 2026",
 			tags: ["hasaera rabi", "alicesoft", "visual novels", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/926f498593ca.png"],
+			thumbnail: "https://cdn.imgchest.com/files/660f9ea48739.png",
+			title: "When Did You Get Hot?",
+			artist: "LazzleDazzle",
+			artist_url: "https://bsky.app/profile/lazzledazzle.bsky.social",
+			art_url: null,
+			desc: "A 4koma comm inspired by the song When Did You Get Hot? by Sabrina Carpenter. When listening to the song, I thought about how Astrid would react to seeing Sothe with his older appearance in Radiant Dawn, especially compared to how he looked in Path of Radiance. Obviously Sothe had a MASSIVE glowup between those games (in my opinion) so I made sure to embelish that in this comm, and I think it turned out pretty good!",
+			date_str: "June 21st, 2026",
+			tags: ["astrid", "sothe", "marcia", "fire emblem", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/adb4931ed174.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/3b7e3126e2c3.png",
+			title: "Alexa x Melissa 69",
+			artist: "Decox",
+			artist_url: "https://bsky.app/profile/decoxart.bsky.social",
+			art_url: null,
+			desc: "Another comm with my Tomodachi Life: Living the Dream lesbian OCs Alexa and Melissa, this time being intimate in the 69 position. This comm was also a collab with fellow commissioner Metalhead.",
+			date_str: "June 22nd, 2026",
+			tags: ["alexa mcarthur", "melissa mona", "original", "tomodachi life", "nsfw"],
 			hidden: false
 		},
 /* Template */
