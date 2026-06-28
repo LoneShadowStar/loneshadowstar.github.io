@@ -943,7 +943,7 @@ var data = {
 			title: "Sonya Leaking Atlas",
 			artist: "Sinccubi",
 			artist_url: "https://bsky.app/profile/sinccubi.bsky.social",
-			art_url: null,
+			art_url: "https://x.com/SINccubi/status/2069551310983053806",
 			desc: "A YCH commission from Sinccubi that I felt captured my imagined dynamic between Sonya and Atlas, specifically the idea that Sonya tends to dominate Atlas during sex. Also, that lip bite Sonya's making is the best part imo.",
 			date_str: "June 6th, 2026",
 			tags: ["atlas", "sonya", "fire emblem", "nsfw"],
@@ -1019,6 +1019,18 @@ var data = {
 			desc: "Another comm with my Tomodachi Life: Living the Dream lesbian OCs Alexa and Melissa, this time being intimate in the 69 position. This comm was also a collab with fellow commissioner Metalhead.",
 			date_str: "June 22nd, 2026",
 			tags: ["alexa mcarthur", "melissa mona", "original", "tomodachi life", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/a074d3a5ba71.jpg", "https://cdn.imgchest.com/files/32a06766d1a3.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/b3f4c13d691f.png",
+			title: "Sothestrid - Steamy Showering",
+			artist: "ihsnet",
+			artist_url: "https://bsky.app/profile/ihsnet.bsky.social",
+			art_url: "https://bsky.app/profile/loneshadowstar.bsky.social/post/3mpajvalba224",
+			desc: "A gift comm I received from a friend as part of a Secret Gift Exchange I participated in (the same one that involved my earlier Petra comm from Mune). Ihsnet being the artist probably wouldn't be my FIRST choice for a gift, but god DAMN do I love the idea here and its execution.",
+			date_str: "June 26th, 2026",
+			tags: ["astrid", "sothe", "fire emblem", "gift comms (received)", "nsfw"],
 			hidden: false
 		},
 /* Template */
