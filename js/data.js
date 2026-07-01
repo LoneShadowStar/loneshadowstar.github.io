@@ -1033,6 +1033,18 @@ var data = {
 			tags: ["astrid", "sothe", "fire emblem", "gift comms (received)", "nsfw"],
 			hidden: false
 		},
+		{
+			src: ["https://cdn.imgchest.com/files/37ad6564b034.png"],
+			thumbnail: "https://cdn.imgchest.com/files/f7576c0a2ba1.png",
+			title: "Sonya Pulls Atlas Closer",
+			artist: "Antjams",
+			artist_url: "https://bsky.app/profile/antjams.bsky.social",
+			art_url: "https://vgen.co/ant_jams/portfolio/showcase/loneshadowstar-s-sonya-atlas-illustration-sketch/cf697fa5-947d-4504-84f2-92565364cd22",
+			desc: "Something a little different this time around. Antjams was an artist I had wanted to comm, but was hesitant at first due to his artstyle not usually being one I work with. After seeing him make THIS, though, I think I'm sold on how good he really is.",
+			date_str: "June 30th, 2026",
+			tags: ["atlas", "sonya", "fire emblem", "sfw"],
+			hidden: false
+		},
 /* Template */
 		{
 			src: [""],
