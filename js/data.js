@@ -10,7 +10,7 @@ var data = {
 			art_url: null,
 			desc: "Do not delete this. You can use this to set the order the tags show up in the dropdown.",
 			date_str: "Beginning of Time",
-			tags: [""],
+			tags: ["sfw", "nsfw", "fire emblem", "tomodachi life", "visual novels", "alicesoft", "original", "astrid", "sothe", "sonya", "atlas", "male_shez", "female_shez", "shamir", "catherine", "lysithea", "pachikar", "estelle", "alexa mcarthur", "cameron mcarthur", "mikaiah mona", "melissa mona", "other characters"],
 			hidden: true
 		},
 		{
@@ -46,7 +46,7 @@ var data = {
 			art_url: "https://x.com/adricarraART/status/1682749281717854209",
 			desc: "The first Safe for Work illustration I commissioned, and the first from Adricarra.",
 			date_str: "April 2023",
-			tags: ["sothe", "astrid", "sfw"],
+			tags: ["sothe", "astrid", "fire emblem", "sfw"],
 			hidden: false
 		},
 		{
@@ -58,7 +58,7 @@ var data = {
 			art_url: "https://www.pixiv.net/en/artworks/109904854",
 			desc: "First comm featuring Shez, Shamir, and Catherine.",
 			date_str: "July 2023",
-			tags: ["male_shez", "catherine", "shamir", "nsfw"],
+			tags: ["male_shez", "catherine", "shamir", "fire emblem", "nsfw"],
 			hidden: false
 		},
 		{
@@ -190,7 +190,7 @@ var data = {
 			art_url: null,
 			desc: "More Girls Gift characters! From left to right, they are Pachikar, Hasaera Rabi, and Labelcase. They're only minor bosses in the game they appear in, but they have enough personality to stick in my mind despite this, especially Pachikar.",
 			date_str: "January 13th, 2025",
-			tags: ["pachikar", "hasaera rabi", "other characters", "alicesoft", "visual novels", "nsfw"],
+			tags: ["pachikar", "other characters", "alicesoft", "visual novels", "nsfw"],
 			hidden: false
 		},
 		{
@@ -442,7 +442,7 @@ var data = {
 			art_url: null,
 			desc: "A funny little 4koma from Lazzle, based on another idea that had sat in my backlog for a long time. Featuring Marcia from the Fire Emblem series.",
 			date_str: "October 2nd, 2025",
-			tags: ["astrid", "sothe", "marcia", "fire emblem", "sfw"],
+			tags: ["astrid", "sothe", "other characters", "fire emblem", "sfw"],
 			hidden: false
 		},
 		{
@@ -646,7 +646,7 @@ var data = {
 			art_url: null,
 			desc: "Some last minute Choose your Legends 2026 propaganda for Astrid, completed on the last day of the event. I actually almost used Makalov in Estelle's place, but changed my mind because fuck Makalov. Maji had also included separated versions for each character, as well as blank versions, so I added those. The Sothe and Estelle ones in particular have a LOT of meme potential, imo.",
 			date_str: "January 28th, 2026",
-			tags: ["astrid", "sothe", "marcia", "estelle", "other characters", "fire emblem", "sfw"],
+			tags: ["astrid", "sothe", "estelle", "other characters", "fire emblem", "sfw"],
 			hidden: false
 		},
 			{
@@ -994,7 +994,7 @@ var data = {
 			art_url: "https://skeb.jp/@dha_l/works/289",
 			desc: "A passionate scene with the angel Hasaera Rabi from Toushin Toshi Girls Gift, much like my earlier one with Pachikar. There's also a cumming alt that was hidden in the PSD file.",
 			date_str: "June 13, 2026",
-			tags: ["hasaera rabi", "alicesoft", "visual novels", "nsfw"],
+			tags: ["other characters", "alicesoft", "visual novels", "nsfw"],
 			hidden: false
 		},
 		{
@@ -1043,6 +1043,18 @@ var data = {
 			desc: "Something a little different this time around. Antjams was an artist I had wanted to comm, but was hesitant at first due to his artstyle not usually being one I work with. After seeing him make THIS, though, I think I'm sold on how good he really is.",
 			date_str: "June 30th, 2026",
 			tags: ["atlas", "sonya", "fire emblem", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/21a0df109062.jpg", "https://cdn.imgchest.com/files/a17173d3cae1.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/eb30a1a354ec.png",
+			title: "Mikaiah and Cameron",
+			artist: "Gzei",
+			artist_url: "https://bsky.app/profile/gzeidraws.bsky.social",
+			art_url: null,
+			desc: "More Mikaiah content! This one features her with her as of yet unseen boyfriend, Cameron McArthur, who happens to be Alexa McArthur's younger brother. If I had to describe Cameron's personality, he is laid-back, outgoing, and puts on a show of confidence, but deep down is easily flustered, as shown here.",
+			date_str: "July 3rd, 2026",
+			tags: ["cameron mcarthur", "mikaiah mona", "original", "tomodachi life", "sfw"],
 			hidden: false
 		},
 /* Template */
