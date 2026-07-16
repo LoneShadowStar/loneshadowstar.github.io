@@ -1057,6 +1057,18 @@ var data = {
 			tags: ["cameron mcarthur", "mikaiah mona", "original", "tomodachi life", "sfw"],
 			hidden: false
 		},
+		{
+			src: ["https://cdn.imgchest.com/files/3050f68b6eef.png"],
+			thumbnail: "https://cdn.imgchest.com/files/b1c0fdda82aa.png",
+			title: "Alexa McArthur",
+			artist: "Misokatsuhaumai",
+			artist_url: "https://bsky.app/profile/misokatsuhaumai.bsky.social",
+			art_url: "https://bsky.app/profile/misokatsuhaumai.bsky.social/post/3mqqiynko2s2b",
+			desc: "A pay-what-you-want comm from Mason's Vgen that I decided to go for using Alexa. Her face caught me a little off-guard at first (I'm not used to her having squinted eyes), but I think she came out really cute!",
+			date_str: "July 15th, 2026",
+			tags: ["alexa mcarthur", "original", "tomodachi life", "sfw"],
+			hidden: false
+		},
 /* Template */
 		{
 			src: [""],
