@@ -1064,7 +1064,7 @@ var data = {
 			artist: "Misokatsuhaumai",
 			artist_url: "https://bsky.app/profile/misokatsuhaumai.bsky.social",
 			art_url: "https://bsky.app/profile/misokatsuhaumai.bsky.social/post/3mqqiynko2s2b",
-			desc: "A pay-what-you-want comm from Mason's Vgen that I decided to go for using Alexa. Her face caught me a little off-guard at first (I'm not used to her having squinted eyes), but I think she came out really cute!",
+			desc: "A pay-what-you-want comm from Mason's Vgen that I decided to go for using Alexa. Her face caught me a little off-guard at first (I didn't expect her to have squinted eyes), but I think she came out really cute!",
 			date_str: "July 15th, 2026",
 			tags: ["alexa mcarthur", "original", "tomodachi life", "sfw"],
 			hidden: false
