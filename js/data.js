@@ -1069,6 +1069,18 @@ var data = {
 			tags: ["alexa mcarthur", "original", "tomodachi life", "sfw"],
 			hidden: false
 		},
+		{
+			src: ["https://cdn.imgchest.com/files/f581ef80bd13.png", "https://cdn.imgchest.com/files/9f2f1353a363.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7144d322ac6e.png",
+			title: "Melissa Reference Sheet",
+			artist: "MangoSketches",
+			artist_url: "https://bsky.app/profile/mgosketches.bsky.social",
+			art_url: null,
+			desc: "A proper reference sheet for Melissa without needing to rely on prior comms. Mango was the PERFECT artist to design Melissa, and I think she looks really good in her artstyle. I love the extra details she added too, like the lanyard in her pocket and the ripped pants.",
+			date_str: "July 21st, 2026",
+			tags: ["melissa mona", "original", "tomodachi life", "sfw"],
+			hidden: false
+		},
 /* Template */
 		{
 			src: [""],
