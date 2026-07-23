@@ -788,7 +788,7 @@ var data = {
 			artist: "Kalycoris",
 			artist_url: "https://bsky.app/profile/kkalycoris.bsky.social",
 			art_url: "https://bsky.app/profile/kkalycoris.bsky.social/post/3mip4lokwek2k",
-			desc: "A passionate prone-bone commission that I requested on VGen. The artist actually sent me multiple variants to choose from during the process, which was sometimes pretty difficult since they all looked good, lol. I do ultimately like the final result, though. Something about Astrid clenching her teeth while Sothe penetrates her just feels right.",
+			desc: "A passionate prone-bone commission that I requested on VGen. The artist actually sent me multiple variants to choose from during the process, which was sometimes pretty difficult since they all looked good, lol. I do ultimately like the final result, though. Something about Astrid clenching her teeth while Sothe penetrates her just feels right. Also, if you look closely at Sothe's crotch, you can see that he's cumming into Astrid here.",
 			date_str: "April 4th, 2026",
 			tags: ["astrid", "sothe", "fire emblem", "nsfw"],
 			hidden: false
