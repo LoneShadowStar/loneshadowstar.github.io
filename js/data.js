@@ -1081,6 +1081,18 @@ var data = {
 			tags: ["melissa mona", "original", "tomodachi life", "sfw"],
 			hidden: false
 		},
+		{
+			src: ["https://cdn.imgchest.com/files/022be341f39a.png", "https://cdn.imgchest.com/files/7b890629f466.png"],
+			thumbnail: "https://cdn.imgchest.com/files/63a9eeab8477.png",
+			title: "Sothstrid - Cozy",
+			artist: "Moedredd",
+			artist_url: "https://bsky.app/profile/moedredd.bsky.social",
+			art_url: null,
+			desc: "A simple, cozy piece featuring Sothe and Astrid that I requested after being suggested to by another commissioner.",
+			date_str: "July 24th, 2026",
+			tags: ["astrid", "sothe", "fire emblem", "sfw"],
+			hidden: false
+		},
 /* Template */
 		{
 			src: [""],
