@@ -10,7 +10,7 @@ var data = {
 			art_url: null,
 			desc: "Do not delete this. You can use this to set the order the tags show up in the dropdown.",
 			date_str: "Beginning of Time",
-			tags: ["sfw", "nsfw", "fire emblem", "tomodachi life", "visual novels", "alicesoft", "original", "astrid", "sothe", "sonya", "atlas", "male_shez", "female_shez", "shamir", "catherine", "lysithea", "pachikar", "estelle", "alexa mcarthur", "cameron mcarthur", "mikaiah mona", "melissa mona", "other characters"],
+			tags: ["sfw", "nsfw", "fire emblem", "tomodachi life", "visual novels", "alicesoft", "original", "astrid", "sothe", "sonya", "atlas", "male_shez", "female_shez", "shamir", "catherine", "lysithea", "pachikar", "estelle", "alexa mcarthur", "cameron mcarthur", "mikaiah mona", "mona mona", "melissa mona", "other characters"],
 			hidden: true
 		},
 		{
@@ -1091,6 +1091,30 @@ var data = {
 			desc: "A simple, cozy piece featuring Sothe and Astrid that I requested after being suggested to by another commissioner.",
 			date_str: "July 24th, 2026",
 			tags: ["astrid", "sothe", "fire emblem", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/bb3c5b5ef667.png", "https://cdn.imgchest.com/files/9873fec9a82d.png"],
+			thumbnail: "https://cdn.imgchest.com/files/41816ca44886.png",
+			title: "Don't Look Back",
+			artist: "MangoSketches",
+			artist_url: "https://bsky.app/profile/mgosketches.bsky.social",
+			art_url: null,
+			desc: "A comm inspired by an official cover from the manga Bleach, though with a LOT more... exposure.",
+			date_str: "August 6th, 2026",
+			tags: ["female_shez", "shamir", "fire emblem", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/8114a6fdc935.png"],
+			thumbnail: "https://cdn.imgchest.com/files/8d81be48e7ff.png",
+			title: "Mona Mona",
+			artist: "Tamafry",
+			artist_url: "https://bsky.app/profile/tamafry.com",
+			art_url: null,
+			desc: "Another of the Mona sisters from my Tomodachi Life: Living the Dream island and the middle child of the three. Personality-wise, she is cool, stoic, and doesn't show a lot of emotion, often appearing apathetic despite carrying a LOT of baggage.",
+			date_str: "August 6th, 2026",
+			tags: ["mona mona", "original", "tomodachi life", "sfw"],
 			hidden: false
 		},
 /* Template */
