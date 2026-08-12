@@ -1117,6 +1117,18 @@ var data = {
 			tags: ["mona mona", "original", "tomodachi life", "sfw"],
 			hidden: false
 		},
+		{
+			src: ["https://cdn.imgchest.com/files/b7382af81e3e.png"],
+			thumbnail: "https://cdn.imgchest.com/files/448d6b04e532.png",
+			title: "Sothstrid - Couple Things",
+			artist: "LazzleDazzle",
+			artist_url: "https://bsky.app/profile/lazzledazzle.bsky.social",
+			art_url: null,
+			desc: "An image of various things based on how I imagine Sothe and Astrid's dynamic as a couple. I always imagined Sothe being protective of Astrid despite not outwardly expressing it, and Astrid giving Sothe a lot of affection as a result, which despite his stoic exterior makes him VERY flustered.",
+			date_str: "August 11th, 2026",
+			tags: ["astrid", "sothe", "fire emblem", "sfw"],
+			hidden: false
+		}
 /* Template */
 		{
 			src: [""],
