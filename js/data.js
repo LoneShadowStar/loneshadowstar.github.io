@@ -1128,7 +1128,7 @@ var data = {
 			date_str: "August 11th, 2026",
 			tags: ["astrid", "sothe", "fire emblem", "sfw"],
 			hidden: false
-		}
+		},
 /* Template */
 		{
 			src: [""],
