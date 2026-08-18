@@ -1129,6 +1129,18 @@ var data = {
 			tags: ["astrid", "sothe", "fire emblem", "sfw"],
 			hidden: false
 		},
+		{
+			src: ["https://cdn.imgchest.com/files/4b5a35784370.png"],
+			thumbnail: "https://cdn.imgchest.com/files/a087e5016de4.png",
+			title: "Mikaiah Reference Sheet",
+			artist: "KattNippXO",
+			artist_url: "https://x.com/KattNippxo",
+			art_url: null,
+			desc: "A proper reference sheet for Mikaiah without needing to rely on prior comms.",
+			date_str: "August 17th, 2026",
+			tags: ["mikaiah mona", "original", "tomodachi life", "sfw"],
+			hidden: false
+		},
 /* Template */
 		{
 			src: [""],
