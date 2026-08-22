@@ -1141,6 +1141,18 @@ var data = {
 			tags: ["mikaiah mona", "original", "tomodachi life", "sfw"],
 			hidden: false
 		},
+		{
+			src: ["https://cdn.imgchest.com/files/10b80f1187cd.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ca8c8f1ad867.png",
+			title: "Sothstrid - Pegging",
+			artist: "Kalycoris",
+			artist_url: "https://bsky.app/profile/kkalycoris.bsky.social",
+			art_url: "https://vgen.co/kalycoris/portfolio/showcase/nsfw-sothe-x-astrid/a1a01f70-fb35-46c3-bf00-d45165ef7a0a",
+			desc: "Something I had thought about doing for a long time since I'm a bit of a pegging enthusiast myself. I really love Astrid's mischievous smirk as she strokes Sothe's Meat Stick.",
+			date_str: "August 20th, 2026",
+			tags: ["astrid", "sothe", "fire emblem", "nsfw"],
+			hidden: false
+		},
 /* Template */
 		{
 			src: [""],
