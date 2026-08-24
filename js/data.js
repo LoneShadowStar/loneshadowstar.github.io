@@ -10,7 +10,7 @@ var data = {
 			art_url: null,
 			desc: "Do not delete this. You can use this to set the order the tags show up in the dropdown.",
 			date_str: "Beginning of Time",
-			tags: ["sfw", "nsfw", "fire emblem", "tomodachi life", "visual novels", "alicesoft", "original", "astrid", "sothe", "sonya", "atlas", "male_shez", "female_shez", "shamir", "catherine", "lysithea", "pachikar", "estelle", "alexa mcarthur", "cameron mcarthur", "mikaiah mona", "mona mona", "melissa mona", "other characters"],
+			tags: ["sfw", "nsfw", "fire emblem", "tomodachi life", "visual novels", "alicesoft", "other series", "original", "astrid", "sothe", "sonya", "atlas", "male_shez", "female_shez", "shamir", "catherine", "lysithea", "pachikar", "estelle", "alexa mcarthur", "cameron mcarthur", "mikaiah mona", "mona mona", "melissa mona", "other characters"],
 			hidden: true
 		},
 		{
@@ -1151,6 +1151,18 @@ var data = {
 			desc: "Something I had thought about doing for a long time since I'm a bit of a pegging enthusiast myself. I really love Astrid's mischievous smirk as she strokes Sothe's Meat Stick.",
 			date_str: "August 20th, 2026",
 			tags: ["astrid", "sothe", "fire emblem", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/c829ba133771.png", "https://cdn.imgchest.com/files/c53f98472097.png", "https://cdn.imgchest.com/files/813a9e842362.png", "https://cdn.imgchest.com/files/4b664347dc8a.png", "https://cdn.imgchest.com/files/fdf736c96578.png", "https://cdn.imgchest.com/files/6767ff292a38.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7cea121b9182.png",
+			title: "DQVIII Hero and Medea",
+			artist: "OathCradle",
+			artist_url: "https://x.com/OathCradle",
+			art_url: "https://skeb.jp/@OathCradle/works/136",
+			desc: "A slightly self-indulgent work I requested after playing Dragon Quest VIII for the first time. I really loved the Hero and Medea's relationship in the game but found that there was barely any NSFW of the two of them. And so I commed this to satisfy my horny cravings, lol.",
+			date_str: "August 20th, 2026",
+			tags: ["other characters", "other series", "nsfw"],
 			hidden: false
 		},
 /* Template */
