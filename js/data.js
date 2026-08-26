@@ -68,7 +68,7 @@ var data = {
 			artist: "Ebinku",
 			artist_url: "https://www.pixiv.net/users/ebinkuu18",
 			art_url: "https://www.pixiv.net/artworks/111756077",
-			desc: "First comm from Ebinku. This was inspired by the fact that Arthur (the Genealogy one) was added to Fire Emblem Heroes over a year BEFORE Fee was added, and this was them reuniting.",
+			desc: "First comm from Ebinku. This was inspired by the fact that Arthur (the Genealogy one) was added to Fire Emblem Heroes over a year BEFORE Fee was added, and this was them reuniting. This was actually going to be another Sothstrid comm, but I was rejected because he only drew Sothe with Micaiah at that time. He's since changed his stance on who Sothe is with and I was later able to get a proper Sothstrid comm from him.",
 			date_str: "October 2023",
 			tags: ["other characters", "fire emblem", "nsfw"],
 			hidden: false
@@ -1163,6 +1163,18 @@ var data = {
 			desc: "A slightly self-indulgent work I requested after playing Dragon Quest VIII for the first time. I really loved the Hero and Medea's relationship in the game but found that there was barely any NSFW of the two of them. And so I commed this to satisfy my horny cravings, lol.",
 			date_str: "August 20th, 2026",
 			tags: ["other characters", "other series", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/3ec4376ec76f.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/f1e9a900e2e8.png",
+			title: "Astrid Realizing Her Feelings for Sothe",
+			artist: "Ebinku",
+			artist_url: "https://x.com/ebinkuu",
+			art_url: "https://x.com/ebinkuu18/status/2092379387983184070",
+			desc: "At long last, I was able to get a Sothstrid comm from Ebinku! I had attempted to before WAAAAAYYY back when I first started commissioning in 2023, but I was rejected because he only drew Sothe with Micaiah at that time, and what was intended to be that instead became the Arthur x Fee comm. After seeing that his stance on who Sothe was paired with had changed, I tried requesting Sothstrid to him again, and sure enough he accepted. And the final piece... This is peak.",
+			date_str: "August 25th, 2026",
+			tags: ["astrid", "sothe", "fire emblem", "nsfw"],
 			hidden: false
 		},
 /* Template */
