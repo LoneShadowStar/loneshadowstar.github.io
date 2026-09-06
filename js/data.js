@@ -1177,6 +1177,18 @@ var data = {
 			tags: ["astrid", "sothe", "fire emblem", "nsfw"],
 			hidden: false
 		},
+		{
+			src: ["https://cdn.imgchest.com/files/443d2973d6cb.png", "https://cdn.imgchest.com/files/194c5f2ddf86.png"],
+			thumbnail: "https://cdn.imgchest.com/files/1d540a317417.png",
+			title: "Ass-trid and Sothe",
+			artist: "Evomanaphy",
+			artist_url: "https://bsky.app/profile/evomanaphy.bsky.social",
+			art_url: "https://bsky.app/profile/evomanaphy.bsky.social/post/3mupmwm22ac2r",
+			desc: "A comm that has possibly one of the funniest stories for its conception. Basically, the idea literally came to me in a dream: I dreamt that Evo drew this for me in this exact pose. So when Evo finally opened her comms, I knew what I had to do. My brain works in mysterious ways sometimes, lol.",
+			date_str: "September 4th, 2026",
+			tags: ["astrid", "sothe", "fire emblem", "nsfw"],
+			hidden: false
+		},
 /* Template */
 		{
 			src: [""],
