@@ -1189,6 +1189,18 @@ var data = {
 			tags: ["astrid", "sothe", "fire emblem", "nsfw"],
 			hidden: false
 		},
+		{
+			src: ["https://cdn.imgchest.com/files/585e48c37ad4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/aea85bcb7bfe.png",
+			title: "Estelle Winking Emoji",
+			artist: "Jeebees",
+			artist_url: "https://bsky.app/profile/jebbee.bsky.social",
+			art_url: null,
+			desc: "A gift from EebyDeebs, who had recently become a fan of Estelle and got this for me. If you ask me, I think it captures Estelle's personality perfectly.",
+			date_str: "September 9th, 2026",
+			tags: ["estelle", "fire emblem", "original", "gift comms (received)", "sfw"],
+			hidden: false
+		},
 /* Template */
 		{
 			src: [""],
