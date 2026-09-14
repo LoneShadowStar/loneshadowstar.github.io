@@ -1201,6 +1201,18 @@ var data = {
 			tags: ["estelle", "fire emblem", "original", "gift comms (received)", "sfw"],
 			hidden: false
 		},
+		{
+			src: ["https://cdn.imgchest.com/files/f301164d7de0.png", "https://cdn.imgchest.com/files/caed9849f66b.png"],
+			thumbnail: "https://cdn.imgchest.com/files/3e243e5bcb85.png",
+			title: "Estelle Reference Sheet",
+			artist: "MangoSketches",
+			artist_url: "https://bsky.app/profile/mgosketches.bsky.social",
+			art_url: null,
+			desc: "A proper reference sheet for Estelle. I had a feeling that Mango would be perfect to draw her, and sure enough I was right.",
+			date_str: "September 13th, 2026",
+			tags: ["estelle", "fire emblem", "original", "sfw"],
+			hidden: false
+		},
 /* Template */
 		{
 			src: [""],
