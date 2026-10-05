@@ -1213,6 +1213,18 @@ var data = {
 			tags: ["estelle", "fire emblem", "original", "sfw"],
 			hidden: false
 		},
+		{
+			src: ["https://cdn.imgchest.com/files/c36034f1eeb5.png", "https://cdn.imgchest.com/files/c4c02095041f.png", "https://cdn.imgchest.com/files/b2fcd21abb01.png", "https://cdn.imgchest.com/files/139e69421a39.png", "https://cdn.imgchest.com/files/3b6cf441a7a9.png"],
+			thumbnail: "https://cdn.imgchest.com/files/a9715a8d06b0.png",
+			title: "A Romantic Kiss",
+			artist: "Misokatsuhaumai",
+			artist_url: "https://bsky.app/profile/misokatsuhaumai.bsky.social",
+			art_url: "https://bsky.app/profile/did:plc:joblgg3nuhgy3t56t2natxst/post/3mwqfwsbdzc23",
+			desc: "A romantic scene inspired by a similar CG from the game Welcome to Pia Carrot, a visual novel for the PC-98.",
+			date_str: "September 28th, 2026",
+			tags: ["sothe", "astrid", "fire emblem", "sfw"],
+			hidden: false
+		},
 /* Template */
 		{
 			src: [""],
