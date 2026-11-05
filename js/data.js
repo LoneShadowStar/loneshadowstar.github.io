@@ -1225,6 +1225,30 @@ var data = {
 			tags: ["sothe", "astrid", "fire emblem", "sfw"],
 			hidden: false
 		},
+		{
+			src: ["https://cdn.imgchest.com/files/f433ebe0bbfc.png"],
+			thumbnail: "https://cdn.imgchest.com/files/cbfd12022334.png",
+			title: "Sothstrid at the Gala",
+			artist: "MangoSketches",
+			artist_url: "https://bsky.app/profile/mgosketches.bsky.social",
+			art_url: null,
+			desc: "A piece inspired by a CG from the visual novel Fate/Stay Night, which had a gala scene similar to this one. It's not a 1 to 1 recreation of the CG since I let Mango have some freedom with making it, but I think it looks really well regardless!",
+			date_str: "October 28th, 2026",
+			tags: ["sothe", "astrid", "fire emblem", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/03b62366675c.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ce22cd3c345a.png",
+			title: "A Kiss in the Waters",
+			artist: "Tamafry",
+			artist_url: "https://bsky.app/profile/tamafry.com",
+			art_url: null,
+			desc: "A romantic piece showing Sothe and Astrid embracing each other in a pool of water. Everything about this piece is making me feel a lot of things good lord.",
+			date_str: "November 4th, 2026",
+			tags: ["sothe", "astrid", "fire emblem", "nsfw"],
+			hidden: false
+		},
 /* Template */
 		{
 			src: [""],
