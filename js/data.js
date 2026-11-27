@@ -1243,10 +1243,22 @@ var data = {
 			title: "A Kiss in the Waters",
 			artist: "Tamafry",
 			artist_url: "https://bsky.app/profile/tamafry.com",
-			art_url: null,
+			art_url: "https://bsky.app/profile/tamafry.com/post/3n2cx55vh4i2b",
 			desc: "A romantic piece showing Sothe and Astrid embracing each other in a pool of water. Everything about this piece is making me feel a lot of things good lord.",
 			date_str: "November 4th, 2026",
 			tags: ["sothe", "astrid", "fire emblem", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/0019fadf7b6f.png"],
+			thumbnail: "https://cdn.imgchest.com/files/6b6679808ec6.png",
+			title: "Pachikar Sketch Request",
+			artist: "Lynarc",
+			artist_url: "https://ko-fi.com/B0B239DUT",
+			art_url: null,
+			desc: "A simple sketch request featuring Pachikar from Toushin Toshi Girls Gift. Damn, I've never seen anyone draw her so beautifully before.",
+			date_str: "November 27th, 2026",
+			tags: ["pachikar", "alicesoft", "visual novels", "sfw"],
 			hidden: false
 		},
 /* Template */
